@@ -1,0 +1,1114 @@
+== Format ==
+===Standard===
+* Mandatory Dialogue
+* Choice 1
+* Choice 2
+** Conditional Dialogue
+
+* Mandatory Dialogue
+===Conditional Dialogue===
+* If [Party Member] is in your party..
+
+* Mandatory Dialogue
+
+==Introduction==
+Four thousand years before the rise of the Galactic Empire, the Republic verges on collapse. DARTH MALAK, last surviving apprentice of the Dark Lord Revan, has unleashed an invincible
+
+Sith armada upon an unsuspecting galaxy.
+
+Crushing all resistance, Malak's war of conquest has left the Jedi Order scattered and vulnerable as countless Knights fall in battle, and many more swear allegiance to the new
+
+Sith Master.
+
+In the skies above the Outer Rim world of Taris, a Jedi battle fleet engages the forces of Darth Malak in a desperate effort to halt the Sith's galactic domination....
+
+==Endar Spire==
+===Command Module===
+Trask: We've been ambushed by a Sith battle fleet! The Endar Spire is under attack! Hurry up – we don't have much time!
+*1. Who are you? [ this answer to select highlighted response.]
+*2. The Endar Spire? [ this answer to select highlighted response.]
+**Trask: Did you fall out of your bunk and hit your head? The Endar Spire is the ship we're stationed on – this ship! You probably don't even know who I am, do you?
+Trask: I'm Trask Ulgo, ensign with the Republic Fleet. I'm your bunkmate here on the Endar Spire. We work opposite shifts; I guess that's why you haven't seen me before. Now hurry up, we have to find Bastila! We have to make sure she makes it off the ship alive!
+*1. Who's Bastila? [ this answer to select highlighted response.]
+**Trask: Bastila's the commanding officer on the Endar Spire. Well, not an officer, really. But she's the one in charge of this mission. One of our primary duties is to guarantee her survival in the event of enemy attack! You swore an oath just like everyone else on this mission. Now it's time to make good on that oath!
+*2. Forget it – I'm looking after my own skin! [ this answer to select highlighted response.]
+**Trask: You swore an oath to protect Bastila when you signed up with this mission, just like everyone else in the crew! Now it's time to make good on that oath! I know she may not have an official rank in the fleet, but she's the one in charge of this mission and it's our duty to protect her!
+*Soldier
+**Trask: I've heard all about your reputation: elite combat training, top in your class. It's no wonder you were hand picked for this mission. Word is the officers haven't seen a recruit with your kind of potential in twenty years. But all that potential doesn't mean a thing if you can't deliver when it counts! We're soldiers. We're trained for combat. Bastila's going to need men and women like us at her side during this attack!
+*Scout
+**Trask: I heard what everyone's saying about you: you've explored the farthest reaches of the galaxy, you've visited planets I've never even heard of. People with your skills and abilities are hard to find; it's no wonder the Republic recruited you for this mission. But now's the time to prove yourself! I know you're a scout and not a soldier, but Bastila needs all troops at her side during this attack!
+*Scoundrel
+**Trask: I know all about your reputation, how you used to smuggle spice and blasters along the Corellian Run. I guess the Republic figured since they couldn't catch you, they might as well hire you. And I'll admit, the Republic is in desperate need of someone with your kind of skills. Desperate enough to overlook your shady past. But now that you've signed on for this mission you're part of the Republic fleet. And Bastila needs all troops at her side during this attack!
+*1. Okay, let's go help Bastila!
+*2. Oath or no oath – I'm heading to the escape pods!
+**Trask: Don't be stupid! You won't stand a chance against the Sith by yourself. We've got to stick together if we want to make it out of this alive.
+*Trask: Okay, let's move out. We should stick together; you'll have more success with a party than on your own.
+*Trask: These Sith must be the advance boarding party! For the Republic!
+*Trask: I've got a feeling that won't be our last battle with the Sith. Good thing we have medpacs to heal our wounds. It might be a good idea to use one now before our next battle.
+*1. Okay.
+*​​Trask: It's a dark Jedi! This fight is too much for us – we better stay back. All we'll do is get in the way.
+*Trask: That was one of the Jedi accompanying Bastila. Damn, we could have used her help!
+*Trask: The bridge is just beyond that door. You better equip your melee weapon. There isn't much room on the bridge, and it's suicide to use a blaster in close quarters. I should equip a melee weapon, too. Either that, or I'll have to stay back and use my blaster.
+*1. Okay.
+*2. What if they have lightsabers?
+**Trask: Your melee weapon is made using a cortosis weave. It's strong enough to stand up against anything, even a lightsaber.
+*Trask: Bastila's not on the bridge – they must have retreated to the escape pods! We better head that way too. The Sith want Bastila alive, but once she's off the ship there's nothing stopping them from blasting the Endar Spire into galactic dust!
+*Door: [You have enough experience to level up. You must level up before you pass through the door.]
+*1. Okay. 
+*2. How do I level up?
+**Door: Left-click on the CHARACTER RECORD menu icon in the upper right corner of the screen. Then follow the instructions given on the screen.
+*Trask: There's something behind here.
+*Trask: Damn – another Dark Jedi! I'll try to hold him off, you get to the escape pods! Go!
+*1. [Trask has bought you the time you need to escape. You should make your way to the Starboard Section of the ship.]
+===Starboard Section===
+*Carth: This is Carth Onasi on your personal communicator. I'm tracking your position through the Endar Spire's life support systems. Bastila's escape pod is away – you're the last surviving crew member of the Endar Spire! I can't wait for you much longer; you have to get to the escape pods!
+*Carth: But be careful. There's a Sith patrol just down the corridor. Use your STEALTH skill to sneak past him.
+*1. Okay.
+*2. How do I use my STEALTH skill? 
+
+**Carth: First, make sure you have a stealth field generator equipped on your belt. You can't use your stealth skill without one. Use the mouse and click on the Stealth button to activate it. The generator will wrap you in a cloaking effect so you can sneak past the Sith. Just be careful you don't get too close or he might notice someone's there.
+
+***1. Okay.
+***2. Can you repeat that?
+*Carth: Be careful! There's a whole squad of Sith Troopers on the other side of that door! You need to find some way to thin their numbers. You could reprogram the damaged assault droid to help you, if you have enough repair parts. Or you could use computer spikes to slice into the terminal and use the Endar Spire's security systems against the Sith.
+*Carth: You made it just in time! There's only one active escape pod left. Come on, we can hide out on the planet below!
+**1. Who are you?
+**2. How do I know I can trust you?
+*Carth: I'm a soldier with the Republic, like you. We’re the last two crew members left on the Endar Spire. Bastila's escape pod's already gone, so there's no reason for us to stick around here and get shot by the Sith. Now come on – there'll be time for questions later!
+*Escape Pod: [This is the last escape pod and your only hope of survival.]
+*1. [Use the escape pod.]
+*2. [Step away from the escape pod.]
+
+==Taris==
+===The Apartments===
+You awaken from a troubled sleep, in which you had a dream or vision of a female Jedi armed with a yellow lightsaber fighting and defeating a dark Jedi. Upon seeing you're awake, Carth speaks to you.
+*Carth: Good to see you up, instead of thrashing around in your sleep. You must have been having one hell of a nightmare. I was wondering if you were ever going to wake up. I'm Carth, one of the Republic soldiers from the Endar Spire. I was with you on the escape pod, do you remember?
+*1. I had a strange dream. Like a vision or something.
+**Carth: I'm not surprised. You took a serious blow to the head. You're probably having all kinds of strange dreams. I wouldn't worry too much about it.
+*2. Right. I'm Name, by the way. How did we get here?
+*3. Carth, the one on the communicator. I remember.
+*4. Where am I? How did I get here?
+*Carth: Well, you've been slipping in and out of consciousness for a couple of days now, so I imagine you're pretty confused about things. Try not to worry. We're safe… at least for the moment. We're in an abandoned apartment on the planet of Taris. You were banged up pretty bad when our escape pod crashed, but luckily I wasn't seriously hurt. I was able to drag you away from our crash site in all the confusion, and I stumbled onto this abandoned apartment. By the time the Sith arrived on the scene we were long gone.
+*1. The Sith?
+*2. I guess I owe you my life. Thanks.
+**Carth: You don't have to thank me. I've never abandoned anyone on a mission, and I'm not about to start now. Besides, I'm going to need your help.
+*3. So are we just going to wait here for the Republic to rescue us?
+*Carth: Taris is under Sith control. Their fleet is orbiting the planet, they've declared martial law and they've imposed a planet-wide quarantine. But I've been in worse spots. I saw on your service records that you understand a remarkable number of alien languages. That's pretty rare in a raw recruit, but it should come in handy while we're stranded on a foreign world. There's no way the Republic will be able to get anyone through the Sith blockade to help us. If we're going to find Bastila and get off this planet, we can't rely on anybody but ourselves.
+*1. Why is it so important to find Bastila?
+*2. Bastila? She's the one from the Endar Spire, right?
+*Carth: That smack to your head did more damage than I thought. Bastila's a Jedi. She was with the strike team that killed Darth Revan, Malak's Sith master. Bastila is the key to the whole Republic war effort. The Sith must have found out she was on the Endar Spire and set an ambush for us in this system. I believe Bastila was on one of the escape pods that crashed down here on Taris. For the sake of the Republic war effort, we have to try and find her.
+*'''5.''' Any idea where we should start looking for Bastila?
+*4. Forget it! I'm not risking my life to try and save her!
+*Carth: I don't think you understand the situation. We can't hide on this planet forever. Eventually the Sith will find us… and, trust me, you don't want that. Getting off this world isn't going to be easy… we'll probably need Bastila's help. Not to mention that without her, the whole Republic war effort is doomed.
+*3. How do you even know Bastila's still alive?
+*Carth: I don't. But Bastila's young, and she has a powerful command of the Force. We survived the crash landing, so I'm willing to bet she may have, too. Besides, what's the alternative? I mean, if she's dead, then no one can stop Malak and his Sith from wiping out the Republic. And I'd rather operate on the assumption that she survived.
+*2. If Bastila's a Jedi, she can probably look after herself. 
+*1. So what do you suggest we do next?
+*Carth: Bastila's going to need our help. Many of Darth Malak's followers can use the dark side of the Force, and the Sith have already killed more than their share of Jedi in this war. I doubt anyone's specifically looking for us anymore: we're not that important. But if we're careful we can move about the planet without attracting notice; a luxury Bastila won't have. She's going to have half the Sith fleet looking for her. They know how vital she is to the war effort.
+*1. How can one person, even a Jedi, be so important?
+*2. If Bastila's a Jedi, she can probably look after herself.
+*Carth: Bastila is no ordinary Jedi. She has a rare gift the Jedi call Battle Meditation. Bastila's power can influence entire armies.&lt;br /&gt;KotOR Icon Dialog.png
+*1. How can one person, even a Jedi, be so important? 
+*1. Battle Meditation? What's that?
+*2. If Bastila's so great how come the Sith managed to blow up the Endar Spire?
+*Carth: Through the Force Bastila can inspire her allies with confidence and make her enemies lose their will to fight. Often, that's all it takes to tip the balance in a battle. Of course, there are limits to what she can do. From what I understand of her ability, it requires great concentration and focus to maintain her Battle Meditation. The attack on the Endar Spire happened so fast she probably never even had a chance to use her power. I'm guessing she barely got out alive, and now she's trapped here just as we are.
+*Carth: The whole planet is under quarantine. No ships can land or take-off. So if Bastila's going to escape Taris, she's going to need our help. And we'll probably need hers.&lt;br /&gt;This first loop in the dialog closes, and another begins:
+*3. I think I'll take my chances on my own.
+*Carth: Don't be a fool! You're not getting off this world without help, and you can't hide here forever. Do you have any idea what will happen when the Sith find you?
+*2. What's in this for me if I help you out?
+*Carth: You mean besides a chance to get off this planet before the Sith find you? Do you…do you have any idea what the Sith do to prisoners of war?
+*2. If you want my help you better make it worth my while.
+*Carth: Oh, I get it. Never mind that the Sith will destroy the Republic and ravage the galaxy. You're only in this for the credits. Don't worry. The Republic pays its mercenaries well. You help me find Bastila and they'll make it more than worth your while, I'm sure. Plus, it might be your only chance to get off Taris.
+*All now start to converge:
+*5. Any idea where we should start looking for Bastila?   
+
+**1. Okay, you made your point. I'll help you out.
+**3. If it means getting off this planet, I guess I can help you find Bastila.
+**Carth: Good. We need to work together if we're going to survive.
+*Carth: While you were out I did some scouting around. There are reports of a couple escape pods crashing down into the Undercity. That's probably a good place to start. But the Undercity is a dangerous place. We don't want to go in there unprepared. It won't do Bastila any good if we go and get ourselves killed.
+*2. The sooner we start looking for Bastila the sooner we find her. Let's go.
+*3. Come on. I want to scout this planet out a bit.
+*Carth: Good idea. We can use this abandoned apartment as a base, and we can probably get some equipment and supplies here in the Upper City. Just remember to keep a low profile. I've heard some grim stories about the Dark Jedi interrogation techniques. They say the Force can do terrible things to a mind. It can wipe away your memories and destroy your very identity! But I figure if we don't do anything stupid we should be okay. I mean, after all, they're… they're looking for Bastila, not a couple of grunts like us. Alright, soldier, let's move out.
+===South Apartments===
+===Upper City===
+===Lower City===
+===Under City===
+===Sith Base===
+*Receptionist: Hey – you can't come in here! This is a restricted area! You better tell me what you're doing or I’m going to hit the alarm!
+*Never
+*1. [Persuade] I'm here for a meeting. Don't worry – I know where I have to go.
+*KotOR Icon Dialog.png
+*Receptionist: [Failure] Nice try. What – you think that just because I'm pretty I'm also stupid? You better tell me why you're here or I'll hit this alarm and you'll have about three seconds before this office is swarming with Sith soldiers!
+*2. [Persuade] Look, here's 50 credits – just don't hit that alarm.
+**Receptionist: [Success] 50 credits? You've got a deal! The Sith have made my life a living hell ever since they took over this base.
+*3. Touch that alarm and you're dead!
+*2. Don't hit the alarm. I don't want to have to hurt you.
+**Receptionist: Don't shoot! I just work here – I never wanted any part of this! I would have quit when the Sith took over, but they wouldn't let me!
+**1. Okay – get out of here and I'll let you live!
+*Receptionist: You know, it's about time someone stood up to these Sith! Just do me a favor and wait until I'm out of here before you start blasting the place up.
+*Sith Governor: Who dares to break my meditation? You will pay for interrupting my… wait. I sense the Force is strong with you. Very strong. Who would have thought a Force Adept could be found on this insignificant planet? But your talent is no match for a disciple of the dark side!
+*1. Turn away from the dark side. It won't lead you to anything but destruction.
+**Sith Governor: Spoken like a true drone of the Jedi Council. We Sith, however, have learned to embrace the potential of the dark side. It is what gives us strength!
+*2. You Sith must be brought to judgment for all the blood you have spilled.
+**Sith Governor: You are a fool – this is a new age! The Sith shall be the ones passing judgment now! We are the new order of the galaxy! 
+*3. I'm going to enjoy gutting you! (Dark Side Points Gained: -2)
+**Sith Governor: Ah, yes… feed the hatred and anger within yourself! Call upon the power of the dark side! But not even that can save you now.
+*Sith Governor: This meeting is a stroke of luck for me – my master will surely reward me with my lightsaber once I kill you!
+*Canderous Ordo: I figured you'd be back. Neither one of us is getting off this planet unless we work together. Now, I know the Sith military base had a break-in. I know it was you. I know you've got those departure codes I need. So what do you say? We join forces and I can get you inside Davik's base – and right to the Ebon Hawk. We can go right now.
+*1. I have a few things to take care of first.    KotOR Icon Dialog.png
+*3. Sorry, I'm not interested.    KotOR Icon Dialog.png
+*4. Forget it. I don't trust you.&lt;br /&gt;KotOR Icon Canderous.png
+*Canderous Ordo: Fair enough. But don't take too long. As soon as you're ready to get inside Davik's estate, come speak to me. The sooner we get off this rock the better.    KotOR Icon Canderous.png
+*Canderous Ordo: Sooner or later you'll figure this out. Either we work together, or we both stay stuck here on Taris. Come back and speak to me again when you come to your senses.
+*2. Okay, let's join up. But how are we going to get me inside Davik's estate?
+*Canderous Ordo: Davik's always looking to recruit new talent. I'll tell him how you won that swoop race and mention that you're interested in working for the Exchange. I'll say I brought you in so he could check you out. He'll have you stay at his estate for a couple days while he runs some background checks on you – that's standard procedure.&lt;br /&gt;KotOR Icon Bastila.png
+*Bastila: This is too risky. We should find another way.&lt;br /&gt;KotOR Icon Canderous.png
+*Canderous Ordo: You got another plan, sister? Or are you just objecting 'cause you didn't think of it?&lt;br /&gt;KotOR Icon Bastila.png
+*Bastila: No, I... don't have another plan. I would rather not place my life in your hands, however.&lt;br /&gt;KotOR Icon Canderous.png
+*Canderous Ordo: I can say the same about you. That makes us even. Fortunately we both want to get off this rock, right?
+===Davik's Estate===
+*Admiral Saul Karath: You summoned me, Lord Malak?&lt;br /&gt;KotOR Icon Dialog.png
+*Darth Malak: The search for Bastila is taking too long. We cannot risk her escaping Taris. Destroy the entire planet.&lt;br /&gt;KotOR Icon Dialog.png
+*Admiral Saul Karath: Th… the entire planet, Lord Malak? But… there are billions of people on Taris! We'd be slaughtering countless innocent civilians. Not to mention our own men still on the surface.&lt;br /&gt;KotOR Icon Dialog.png
+*Darth Malak: Your predecessor once made the mistake of questioning my orders, Admiral. Surely you are not so foolish as to make the same mistake?&lt;br /&gt;KotOR Icon Dialog.png
+*Admiral Saul Karath: Of… of course not my Lord Malak. I will do as you command. But it will take several hours to position our fleet.&lt;br /&gt;KotOR Icon Dialog.png
+*Darth Malak: Then I suggest you begin immediately. You are dismissed, Admiral.&lt;br /&gt;KotOR Icon Dialog.png
+*Admiral Saul Karath: Yes, Lord Malak.
+*Davik Kang: So, Canderous – I see you have brought someone with you. Most intriguing, if I do say so myself. You usually travel alone.&lt;br /&gt;KotOR Icon Dialog.png
+*Calo Nord: It's not like you to take on partners, Canderous. You're getting soft.&lt;br /&gt;KotOR Icon Canderous.png
+*Canderous: Watch yourself, Calo. You may be the newest kath hound in the pack, but you aren't top dog yet!&lt;br /&gt;KotOR Icon Dialog.png
+*Davik Kang: Enough! I won't have my top two men killing each other – that's not good business. I'm sure Canderous has an explanation as to why he's not working solo anymore.&lt;br /&gt;KotOR Icon Canderous.png
+*Canderous: This is a special case, Davik. I ran into someone the Exchange might want to recruit. You may have heard something of their exploits already.&lt;br /&gt;KotOR Icon Dialog.png
+*Davik Kang: Ah, yes – now I recognize your companion. The rider who won the big swoop race. Very impressive… as was your display in the rather heated battle afterwards.&lt;br /&gt;KotOR Icon Dialog.png
+*1. Good to finally meet you, Davik. My name's Name.    KotOR Icon Dialog.png
+*2. It was nothing I couldn't handle.    KotOR Icon Dialog.png
+*3. Brejik had to learn that double-crossers tend to end up dead!    KotOR Icon Dialog.png
+*4. I didn't know you were a swoop fan.&lt;br /&gt;KotOR Icon Dialog.png Davik Kang: You know, Canderous was right. The Exchange is always looking for new talent. You could have a bright future with our organization.    KotOR Icon Dialog.png
+*Davik Kang: An important lesson to learn, no doubt. In my line of business I've seen far too many people suffer for not understanding it.    KotOR Icon Dialog.png
+*Davik Kang: A casual fan at best, bet everyone on Taris follows the big season opener. But we have more important issues to discuss now.&lt;br /&gt;KotOR Icon Dialog.png
+*Davik Kang: With a recommendation from Canderous – and a thorough background check – you could become part of the Exchange. Many would kill to prove themselves worthy of this honor.&lt;br /&gt;KotOR Icon Dialog.png
+*1. Your offer intrigues me, Davik.    KotOR Icon Dialog.png
+*2. Sorry, I'm not interested.&lt;br /&gt;KotOR Icon Dialog.png
+*Davik Kang: Don't be so hasty. Our allies end up much better off than our enemies – as both Canderous and Calo Nord could surely tell you. The Exchange has much to offer.&lt;br /&gt;KotOR Icon Dialog.png
+*Davik Kang: Come with me – I will give you a tour of my operations. I'm certain you'll be most impressed.&lt;br /&gt;KotOR Icon Dialog.png
+*Davik Kang: Ah, there she is – the Ebon Hawk. My pride and joy; the fastest ship in the Outer Rim! Note the state-of-the-art security system I've had installed to protect her. The shields are completely impregnable. Nobody can get past them without the codes to try and steal my baby. Unfortunately, the Sith military blockade has grounded my vessel. The Ebon Hawk can outrun any vessel in the galaxy, but even she isn't fast enough to avoid the auto-targeting laser cannons of the orbiting Sith fleet. I am, of course, working on acquiring the Sith departure codes so that I may come and go as I please. However, progress has been slow… but we should continue our tour.
+His tour ends in the guest wing:
+*Davik Kang: These will be your accommodations. The slave quarters are just down the hall. If you need anything during your stay – food, a massage – feel free to call upon their services. If all goes well with your background check you will be invited to join the Exchange. I'd advise you to accept the offer when it comes – or suffer the dire consequences of refusal.&lt;br /&gt;KotOR Icon Dialog.png
+*1. I'm looking forward to working with you, Davik.    KotOR Icon Dialog.png
+*2. I'm sorry, but I can't stay.    KotOR Icon Dialog.png
+*3. Am I a prisoner here?
+*Davik Kang: You will stay in these rooms as my guest for the next few days; I will not accept no for an answer. Feel free to visit the slave quarters at any time during your stay. I must warn you that if you are found anywhere outside the guest wing during your stay – or if you bother my other guests – my security forces will deal with you most harshly. I will return after the investigation into your background is complete. Until then, make yourself comfortable. Come, Calo, let us leave our guests in peace.
+*Canderous: Okay, we're inside. Now all we have to do is figure out a way to get past the Ebon Hawk's security system and we can get the rest of your group and get off this planet! No sense waiting around here, though. The sooner we get off Taris the better.
+*Davik Kang: Damn those Sith – they're bombing the whole planet! I knew they'd turn on us sooner or… well, look what we got here! Thieves in the hangar.
+*Davik Kang: So, you figured you'd just steal my ship for your get-away and leave me high and dry while the Sith turn the planet into dust? Sorry, but that ain't going to happen!
+*Calo Nord: I'll take care of them, Davik. I've been looking forward to this for a long time!
+*Davik Kang: Make it quick, Calo. The Sith mean business. If we don't get to our ships and find somewhere safe, the bombs they're dropping will kill us all.
+*Calo Nord: You may have me outnumbered and outgunned, but if I'm going down I'm taking all of you with me! This thermal detonator will blow us all to bits!
+*Calo Nord: Damn those Sith! They'll bring this whole hangar down around our ears!
+*Calo Nord: Argh!!
+*Board Ebon Hawk: [Do you wish to board the Ebon Hawk?]
+*KotOR Icon Dialog.png
+*1. [Board the Ebon Hawk.]
+*2. [Step away from the boarding ramp.]
+*Canderous: Let's get this ship fired up. We'll pick up the rest of your friends and then we have to get off this planet!
+In the Leviathan overhead, Admiral Saul Karath approaches Darth Malak on its bridge:
+*Admiral Saul Karath: Taris is defenseless against our assault, Lord Malak. They are offering no resistance. The city is in ruins.&lt;br /&gt;KotOR Icon Dialog.png
+*Darth Malak: Resume the bombardment, Commander. Wipe this pathetic planet from the face of the galaxy.
+As the bombardment resumes and Taris is destroyed, you finally escape in the Ebon Hawk!
+*Bastila: Plot a course for Dantooine! There's a Jedi enclave there where we can find refuge!&lt;br /&gt;KotOR Icon Carth.png
+*Carth: Incoming fighters!&lt;br /&gt;KotOR Icon Bastila.png
+*Bastila: Quickly, to the gun turrets! You have to hold the Sith fighters off until we get those hyperspace coordinates punched in.
+
+==Dantooine==
+
+Bastila: Dantooine... it seems like a lifetime since I last set foot on her surface, though in truth it has only been a few months. We should be safe from Malak here... for now, at least.&lt;br /&gt;Carth: Safe? You saw what his fleet did to Taris: there wasn't a building over two stories high left standing! They... they turned the planet into one big pile of rubble.&lt;br /&gt;Bastila: Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.
+*2. I think Carth has a point. We should keep moving.
+**Bastila: We can't just keep running; Malak will find us eventually. We need to regroup; we need a plan.
+*1. I agree with Bastila. We should be safe here.
+Bastila: We can get supplies here and recuperate. The Academy is a place of mental and spiritual healing; something we could all use after what we've been through.&lt;br /&gt;Carth: Maybe you're right. It isn't easy to witness the annihilation of an entire planet. I know Mission must be taking it pretty hard.&lt;br /&gt;Bastila: She will find a way to come to terms with her grief. She is stronger than she appears. We just need to give her time.&lt;br /&gt;Bastila: Now I must go speak with the Council. I need their advice on... recent developments. After I have met with them I will meet you outside the ship.
+
+Bastila: I have spoken briefly with the council; they request an audience with you. We should go at once.&lt;br /&gt;Carth: An audience with the Jedi Council? That's pretty unusual for someone who isn't even a Jedi. What's this about, Bastila?&lt;br /&gt;Bastila: I'm sorry, Carth, but I cannot tell you. All I ask is that you trust in the Force and the wisdom of the Council.&lt;br /&gt;Carth: Well, I don't like being left out of the loop, but I'm not looking to get you in any trouble with the Jedi Masters. We'll do things your way for a while.&lt;br /&gt;Bastila: Come, they are expecting us. I will lead you to the Council chambers.
+
+
+Male Jedi: Dantooine is one of our last refuges. The Sith hunt us everywhere.&lt;br /&gt;If you are seeking information, perhaps the Jedi Council will help. I am afraid I cannot.&lt;br /&gt;I hear that the Sith torture Jedi prisoners until they give in to the dark side. I hope that never happens to me!&lt;br /&gt;I fear it is only a matter of time before the Sith find us here, too...&lt;br /&gt;Enjoy the time you have here on Dantooine. I think the Council might decide to move to a different world soon.&lt;br /&gt;Please, do not disturb me, I have pressing matters at hand.&lt;br /&gt;I heard that the Sith have destroyed Taris. This bodes ill for us...&lt;br /&gt;Good day to you. I am afraid I cannot speak to you at the moment. I apologize.
+
+Female Jedi: It is relaxing to come outside and enjoy the fresh air once in a while. It relieves stress.&lt;br /&gt;If you are seeking information, perhaps the Jedi Council will help. I am afraid I cannot.&lt;br /&gt;Dantooine has a splendid environment. I would hate to see it damaged by too many settlers.&lt;br /&gt;I fear it is only a matter of time before the Sith find us here, too...&lt;br /&gt;I hear that the Sith have defeated another Republic battlefleet. I do not know how much longer the Republic can last.&lt;br /&gt;Please, don't disturb me; I have pressing matters at hand.&lt;br /&gt;The kath hounds have been very active of late. The settlers feel they are becoming more dangerous.&lt;br /&gt;Good day to you. I am afraid I cannot speak to you at the moment. I apologize.&lt;br /&gt;The kath hounds seem to have calmed down. The settlers must be relieved.
+
+
+Lur Arka Sulas: Greetings, sentient. May I take a moment of your time for a question?&lt;br /&gt;3. I don't have time for questions.&lt;br /&gt;Lur Arka Sulas: As you desire. I bid you good day, sentient.
+
+1. Go ahead.&lt;br /&gt;2. Only if I get to ask you something in return.&lt;br /&gt;Lur Arka Sulas: As you desire, though I suspect there is little information I possess that would be of use to an off-worlder such as yourself.&lt;br /&gt;Lur Arka Sulas: I represent a human citizen of Dantooine by the name of Rundil ot Sulem. His ranch has had considerable difficulty with Mandalorian raiders for many years. His young daughter was kidnapped by those raiders many years ago and has not been returned. Might you have news of her? Her name is Sasha.
+
+
+2. Do you actually believe she's still alive?&lt;br /&gt;Lur Arka Sulas: It is not customary for the Mandalorians to terminate their captives. It is my hope Sasha has escaped or been sold into slavery. If so, I may yet locate her.&lt;br /&gt;3. Is there a reward for this news?&lt;br /&gt;Lur Arka Sulas: I wish there were, sentient, for the possibility of a reward would certainly make my search much easier. Since his daughter's kidnapping, however, the human citizen I work for has fallen on difficult times. He has no credits to offer. I would still implore you to offer information, if you have it. Sasha is missed by her family and I desire very much to reunite them.&lt;br /&gt;1. Sorry, I have no idea who you're talking about.&lt;br /&gt;Lur Arka Sulas: Ah, that is too bad. I shall have to continue my search.
+
+
+1. Are problems with Mandalorians common on Dantooine?&lt;br /&gt;Lur Arka Sulas: I understand they are, though I know little of the history behind this conflict. Someone native to this planet could tell you more.&lt;br /&gt;2. Isn't this something the local authorities should handle?&lt;br /&gt;Lur Arka Sulas: Dantooine has little in the way of local authorities, sentient. I asked the Jedi of the enclave to intervene, but they have far more pressing concerns to attend to. As is often the way on this planet, if a citizen wishes to accomplish something, they must seek to do it themselves.&lt;br /&gt;3. Is there anything of interest on Dantooine that you can tell me about?&lt;br /&gt;Lur Arka Sulas: There is no large urban center on Dantooine, if that is what interests you. I find the variety and number of natural habitats to be most intriguing, however. If you get the chance, I would urge you to explore the planet's ranges in more detail. They are quite beautiful.
+
+4. I'll keep my eye out for your girl.&lt;br /&gt;5. I've got to go.&lt;br /&gt;Lur Arka Sulas: I would appreciate that, sentient.&lt;br /&gt;Lur Arka Sulas: As you wish. Thank you for your assistance.
+
+==Yavin IV Station==
+
+==Tatooine==
+
+HK-47: Can I break his neck now master? It's been a long time fantasy of mine...
+
+Revan Shan: Maybe later...
+
+HK-47: Did you hear that meatbag? "I'LL BE BACK!"
+
+Yuka Laka: Err, well... ah...
+
+
+
+[Tanis Venn has been left to die in a trap set by his angry wife]
+
+Tanis: Come on, can you help me out here?
+
+Bastila: I say leave him
+
+Tanis: You're pretty heartless for such a pretty lady, you know that?
+
+Bastila: I take it back, let's congratulate his wife
+
+HK-47: Commentary: I say we blast the meatbag and save you the trouble
+master.
+
+Tanis: What's with all the droids lately, my wife get to you too?
+
+HK-47: Negative: I just don't like organic meatbags! Except for the master of
+course. Heh.
+
+
+HK-47: Translation: 98% probability that members of the miniature organics 
+tribe are being held by Sand People, master. Doubtless he wishes assistance.
+
+Revan: What about the other 2%?
+
+HK-47: Translation: 2% probability that the miniature organic is simply 
+looking for trouble and needs to be blasted. That may be wishful thinking on 
+my part, master.
+
+This is only the beginning of hilarious and downright funny things HK says, 
+man I love this droid!
+
+==Kashykk==
+
+Jolee Bindo: Oh, I get it. Let's play with the old man's head, is it? He's half-senile, he'll forget I said anything! Wait uh, what was this about, anyway?
+
+==Manaan==
+
+If with HK
+Mercenary: There's something out there... it got the other submersible already.
+
+HK-47: Suggestion: Perhaps we could dismember the organic? It would make it easier for transport to the surface.
+
+Mercenary: Hey! Y-you... you can't rip me to pieces! I'll die!
+
+HK-47: Amendment: I did forget that. Stupid, frail, non-compartmentalized meatbags!
+
+==Korriban==
+
+Sith Recruit: Do you know how many Sith there are on this planet?
+
+Jolee Bindo: Twelve! No, wait! Thirteen!
+
+Canderous Ordo: Nice one, old man.
+
+Jolee Bindo: What can I say? It takes effort to be properly irreverent at my age.
+
+[being asked if Revan wants to really join the Sith Academy, Yuthura asks who his companions are]
+
+Revan: Er... It's nothing, just my slaves.
+
+Jolee Bindo: My hearing's not so good. I'm just pleased my nice master doesn't beat me so much anymore, yes sir.
+
+Yuthura Ban: I can help you to understand it. Would you like to hear it?
+"Peace is a lie, there is only passion.
+Through passion, I gain strength.
+Through strength, I gain power.
+Through power, I gain victory.
+Through victory, my chains are broken.
+The Force shall free me."
+Simple words, yet easily misunderstood. Would you care for me to explain anything?
+KotOR Icon Dialog.png
+
+1. 'Peace is a lie, there is only passion'?
+KotOR Icon Dialog.png
+
+Yuthura Ban: The Jedi would have you believe that peace is a desirable goal. That peace of the spirit is the way the Force is mastered, that a lack of conflict betters man. We know different. It is our passion... our hate and our desire... that fuels the Force. It is conflict that improves the lot of civilization and single being both. Conflict forces one to better oneself. It forces change, growth, adaption... evolution... or death. These are not our laws, but the universe's. Without conflict you have only stagnation.
+KotOR Icon Dialog.png 2. 'Through passion, I gain strength'?
+KotOR Icon Dialog.png
+
+Yuthura Ban: What fuels your power with the Force but your passion? The stronger, darker emotions. Anger, hatred, fear... these passions empower us.
+KotOR Icon Dialog.png 1. What about love?
+KotOR Icon Dialog.png
+
+Yuthura Ban: Love is more dangerous than all those things. Love leads to anger and hatred more often that not... but it also leads to mercy, which is far worse. That, however, is a lesson for another time.
+KotOR Icon Dialog.png 2. Those seem like awfully negative passions.
+KotOR Icon Dialog.png
+
+Yuthura Ban: Negative? Compared to what? What keeps even the most rudimentary creature alive? Fear to run, anger to fight... without it a creature would most surely die.
+KotOR Icon Dialog.png 2. Are you saying we aren't anything more than a rudimentary creature?
+KotOR Icon Dialog.png
+
+Yuthura Ban: We are far more than them, perhaps, but in some ways we are little different. To think us creatures beyond the need of simple passions is a delusion.
+KotOR Icon Dialog.png 3. The Jedi say the opposite. How can both be right?
+KotOR Icon Dialog.png
+
+Yuthura Ban: The Force gives us all power, even the Jedi. It is our mastery of our passion that gives us the strength they lack.
+KotOR Icon Dialog.png 4. I see.
+KotOR Icon Dialog.png
+
+Yuthura Ban: It is our goal to be stronger, to achieve our potential and not rest upon our laurels. We are the seekers, not the shepherds.
+KotOR Icon Dialog.png 3. 'Through strength, I gain power'?
+KotOR Icon Dialog.png
+
+Yuthura Ban: The stronger you become in the Force, the more power you will achieve. But always must you fight for your power. Without strife, your victory has no meaning. Without strife, you do not advance. Without strife, there is only stagnation.
+KotOR Icon Dialog.png 4. 'Through power, I gain victory'?
+KotOR Icon Dialog.png
+
+Yuthura Ban: How many sorts of victories can you imagine? Peaceful victory? Victory by sacrifice? A truce, an achievement? Unless the victory is achieved by demonstrating that your power is superior, it is only an illusion. Temporary at best. We seek more.
+KotOR Icon Dialog.png 5. 'Through victory, my chains are broken'?
+KotOR Icon Dialog.png
+
+Yuthura Ban: This... has been argued over, and often. The chains represent our restrictions, both those placed upon us and those we place upon ourselves. Ultimately the goal of any Sith is to free herself from such restrictions. In a way, it is so we may do whatever we wish... but it is much more than that. One who has freed themselves from all restrictions has reached perfection. Their potential fulfilled. Perfect strength, perfect power, perfect destiny. Imagine it. That is our ideal, at any rate. It is said in Sith legend that the 'Sith'ari'... the perfect being... will one day lead us. But perhaps that is just a legend.
+KotOR Icon Dialog.png 1. You don't think the Sith'ari can exist?
+KotOR Icon Dialog.png
+
+Yuthura Ban: I... wonder what a being would be like. The legends say the Sith'ari will destroy us... and make us stronger than ever. But perhaps that is just a legend. Perfection is... a goal, I think, rather than a state of being. The Jedi would argue that, no doubt.
+KotOR Icon Dialog.png 6. 'The Force shall free me'?
+KotOR Icon Dialog.png
+
+Yuthura Ban: The Force is our servant and our master. Our teacher and our companion. A weapon and a tool. Know it and you know the universe. Master it and you master the universe. Strive for perfection and the Force shall reward you.
+KotOR Icon Dialog.png 7. I think I got it.
+KotOR Icon Dialog.png
+
+Yuthura Ban: I am not surprised. The Force is strong with you... master it and it shall serve you well.
+
+==Leviathan==
+
+If Mission is chosen
+[Mission insults the guard]
+
+Sith Guard: That's very funny. You know, I bet your sense of humor will help you stand up really well when we torture you.
+
+Mission Vao: What? You're... you're going to torture me?
+
+Sith Guard: No witty comeback? Not so brave now, are you? I think I'll leave you here for a few hours.
+
+[steps closer]
+
+Sith Guard: Hey... I know. You can use the time to think of witty ways to beg for mercy!
+
+[Laughing, the guard steps back, locks the cell door, and leaves]
+
+Mission Vao: Or, I could use the key card I picked from your pocket to hack into the security system and let myself out.
+
+[does so]
+
+Mission Vao: Piece of cake. I wonder when people will stop underestimating me?
+
+
+==Rakata Prime==
+
+Revan: I spoke to you before? What did I want?
+
+Rakatan Elder Councillor: Is this some type of test, Revan? Some type of trick? You came seeking our aid; you came in search of a way to enter the Temple of the Ancients. You claimed to be seeking a way to destroy the Star Forge, and we were foolish enough to believe you. Unaware of your true nature, we helped you enter the Temple. But you betrayed us, Revan. Instead of destroying the terrible legacy of our ancestors, you unleashed the evil of the Star Forge upon an unsuspecting galaxy. And now you stand before the Council of Elders once more. And once more we ask you: for what reason have you returned, Revan?
+
+Revan: Uh... I need to get into the Temple so I can destroy the Star Forge.
+
+==Star Forge==
+
+[Light Side: Revan convinces Bastila to return to the light]
+
+Bastila Shan: I must know something first. Will there be a place for me in your future? Do you... do you love me?
+
+Revan: I love you Bastila, with all my heart.
+
+Bastila Shan: You are not afraid of love anymore?
+
+Revan: After this, nothing could make me feel safer than to be loved by you.
+
+
+Admiral Dodonna: [in the dark side path, when Bastila uses her battle meditation to turn the tide, the Sith will destroy the Republic forces] It's hopeless, we've lost another capitol ship. All ships fall back, FALL BACK!
+
+Master Vandar Tokare: It is too late for us to retreat, Admiral. The Sith armada has cut us off.
+
+Admiral Dodonna: Then the Republic is doomed.
+
+[the Sith destroy the ship, killing Admiral Dodonna and Master Vandar]
+
+
+[Light Side: Revan defeats Malak]
+Darth Malak: Im... impossible. I... I cannot be beaten. I am the Dark Lord of the Sith.
+
+Revan: This is the way of the Dark Side, Malak - all things end in death.
+
+Darth Malak: Still... still spouting the wisdom of the Jedi, I see. Maybe there is more truth in their code than I ever believed. I... I cannot help but wonder, Revan. What would have happened had our positions been reversed? What if fate had decreed I would be captured by the Jedi? Could I have returned to the Light, as you did? If you had not led me down the dark path in the first place, what destiny would I have found?
+
+Revan: I am sorry I started you on this path. But you chose to continue down it.
+
+Darth Malak: I suppose... I suppose you speak the truth. I alone must accept responsibility for my fate. I wanted to be Master of the Sith and ruler of the galaxy. But that destiny was not mine, Revan. It might have been yours, perhaps... but never mine. And in the end, as the darkness takes me... I am nothing.
+
+
+[Dark Side: Revan defeats Malak]
+
+Darth Malak: Im... Impossible. I cannot be beaten. I... am the Dark Lord of the Sith.
+
+Darth Revan: Now you see the true Dark Lord of the Sith!
+
+Darth Malak: Yes. I cannot deny it any longer. You are the one who deserves... who deserves to be the Dark Lord. You were the one who found the first Star Map on Dantooine, Revan, and it was you who led us on our quest for the Star Forge. I only followed in your wake. I tried to usurp your rule, to steal the title of Sith Master from you. But now I understand. The destiny is yours Revan. Not mine. You... you are Darth Revan, Lord... Lord of the Sith. And I... I am nothing.
+
+Darth Revan: The apprentice has learned his final lesson.
+
+Darth Malak: And so it ends. As I somehow almost knew it must... in darkness.
+
+
+
+Admiral Dodonna: We've done it, Vandar! The Star Forge is destroyed, and the Sith are routed!
+
+Master Vandar Tokare: But at what cost, Admiral? Where is the Ebon Hawk and her crew?
+
+
+==Companion Quests==
+
+==Bastilla==
+
+Revan: Bastila, I love you and I know you love me.
+
+Bastila Shan: Okay, you've made your point. Now shut up and kiss me, you fool.
+
+[they kiss]
+
+
+==Jolee Bindo==
+
+===Personal===
+Jolee: [Even though he has joined your group, Jolee remains a somewhat mysterious character. Maybe you should speak to him about why he chose to come with you.]
+1. [Speak to Jolee.]
+Jolee: Got something on your mind, do you?
+2. [Don't speak to him.]
+Jolee: [You decide to ignore Jolee and continue on with your quest for now, though it might be a good idea to speak with him later.]
+Why did you decide to come with me?
+Jolee: You got yourself a fast little ship. Heh. I'd forgotten what engines sounded like. The closest thing to that on Kashyyyk is an uller in mating season. Ugh! Frightful.
+So you wanted a ride on my ship?
+Jolee: Or it could be for the free food. What's the gunk that comes out of the synthesizer on this bucket, anyway? Do you never clean the darned thing?
+No, seriously, tell me.
+Jolee: I'm old, damn it! I'm allowed to be enigmatic when I want to be, and don't go telling me otherwise.
+If you don't want to answer the question, old man, just say so.
+Jolee: How impatient can one person be? You must have driven your mother mad. All that gurgling and fussing… heh, babies are cute, but annoying.
+Fine, forget it.
+Jolee: Wow, you're not much for interrogation, are you? Is this as hard as you try? Remind me to sign up for your next torture session.
+Jolee: You know, you remind me of someone else I knew ages ago. Pleasant enough fellow, great destiny… all of that. Breath like a bantha.
+Did you annoy this person endlessly, too?
+Jolee: Oh ho ho, very funny. Is it my fault that some people are so easily annoyed? They're like impatient little children. With blasters.
+Is this a comment on my breath?
+Jolee: No, but it could be. An Anduvian salt tablet would clear that right up, you know.
+You're avoiding the question.
+Jolee: So I am. Tell you what… when you get to be my age, you can go ahead and answer any question you like, too. You have my permission.
+Jolee: Anyway, where was I? Oh, yes. Andor Vex, was his name. The Force swirled around him like a hurricane, that's how great his destiny was.
+I never heard of him.
+Jolee: No, you wouldn't have. Sometimes swirling Force is just swirling Force. It gets us old Jedis excited at our age so we go "ooo, destiny!"
+Is that what you see around me, too?
+Jolee: Well, it's not so much a hurricane as a slight breeze. But that doesn't mean anything: destiny is sometimes in the eye of the beholder.
+And you traveled with this man?
+Jolee: I did. Just because someone has the Force swirling about them doesn't always mean they have a great destiny, but it doesn't hurt to check it out.
+Jolee: Well, it turned out that poor Andor believed a wee bit too much in the infallibility of that destiny. That overconfidence turned out to be his downfall.
+1. Is there supposed to be some hidden meaning in this?
+Jolee: I don't know. Are you overconfident? I hadn't noticed. Even if I had, I would never comment on it. We're talking about Andor, remember?
+2. Does this story have a point, old man?
+Jolee: Does it have to have a point? I thought we were just talking about Andor. Is something wrong with your attention span?
+3. You're making all of this up!
+Jolee: I am not! I've no need to make things up, with my poor memory and all. You just sit still and let me finish, damn it.
+Jolee: Let's see… oh, yes. Andor's downfall. I was pretty young, myself, when it happened. At the time, I thought that Andor's destiny couldn't be more boring.
+1. How young are we talking?
+Jolee: Well, let's just say that I was a strapping young lad with a full head of hair and Coruscant was a small town with a well, heh heh.
+2. As boring as this story?
+Jolee: You know, if you keep interrupting, it will take even longer. Have you no patience at all? How did you get as old as you are anyway?
+3. So why didn't you "leave"?
+Jolee: Well, he had a much better food dispenser than you do. That and the fact that even then I wasn't an altogether impatient *twit*.
+Jolee: I was just about to abandon Andor to whatever the Force intended for him when his ship was overtaken by a Dimean warship. Now, you've probably never heard of the Dimeans, but at the time they were a nasty lot led by a nastier overlord named Kraat. Tall fellow. Big teeth. Kraat has us hauled onto the bridge of his ship for questioning, and that's when I knew that Andor's destiny was at hand.
+1. Andor killed Kraat, I take it?
+Jolee: Of course he did! Haven't you been listening? It was not in the way you'd probably expect, though.
+2. How did you know?
+Jolee: Swirling Force, remember? Jedi here? Granted, I was just interpreting the signs, but we get trained in that sort of thing. More or less.
+3. And? Go on.
+Jolee: Well, Andor decides that his destiny makes him invulnerable and starts making all sorts of demands. Free me now, I'm not answering questions, blah blah blah. Don't you know who I am? Kraat decides he's had enough and begins crushing Andor's neck. I told the boy he should have kept his mouth shut. I think he agreed, too… or those could have just been gurgling noises. Well… well, anyway. Finally, Kraat has enough of Andor and tosses him aside into this giant energy intake shaft. Andor gets sucked in and starts bouncing around, heh, screaming… heh. Maybe Andor hit something sensitive on the way down or just didn't agree with the reactor core, next thing I know all the ship's alarms are ringing.
+1. You're kidding…
+Jolee: Everyone panics and I run, barely making it to the ship in time before the explosion. Kraat dies horribly, and the Dimeans never quite recovered. Changed the political course of the entire sector for centuries to come. I'd call that quite a destiny, wouldn't you?
+1. I hate you, old man…
+Jolee: Well, now, that's the ingratitude of youth for you. I relate an exciting tale and do I get thanked for it? No, no, it's all 'me me me! ' Hmph.
+2. But how can you even be sure Andor was responsible?
+Jolee: What?! Are you kidding?! What are the odds of that happening, anyway? A billion to one? You should do so well as to be sucked into the engine of some evil Sith Lord, you know. Andor was a hero… sort of.
+3. And what does that have to do with you coming with me?
+Jolee: Well, hey, the chances may not be great, but when one has the opportunity to see something like that twice in a lifetime…
+Jolee: Anyway, go on. My throat is dry and you're making me cranky. Shoo!
+
+KotOR Icon Dialog.pnKotOR Icon Dialog.png 
+1. You never did actually say why you decided to come with me...
+KotOR Icon Jolee.png Jolee: No, I never did, did I?
+KotOR Icon Dialog.png 1. You know, I don't *have* to take you with me.
+KotOR Icon Jolee.png Jolee: Of course you do. I know things, remember? You think you could make it around this part of the galaxy without me? Don't answer that.
+KotOR Icon Dialog.png 2. Are you always going to be this elusive?
+KotOR Icon Jolee.png Jolee: Elusive? Me, elusive? Heh. Obviously you've never tried to grab a Twi'lek dancing girl after drinking too much Ondaran willek juice.
+KotOR Icon Dialog.png 3. Answer the question, old man.
+KotOR Icon Jolee.png Jolee: My, my, somebody woke up on the wrong side of the starship this morning, I see. Is that a chip on your shoulder or are you a bit surly today?
+KotOR Icon Jolee.png Jolee: At any rate, I already told you why I wanted to leave. I've seen everything I wanted to on Kashyyyk. Time to go, time to move on.
+KotOR Icon Dialog.png 1. Move on to where?
+KotOR Icon Dialog.png 2. I don't believe you.
+KotOR Icon Dialog.png 3. You looked plenty happy there, to me.
+KotOR Icon Jolee.png Jolee: To bed. I'm old and tired, you know.
+KotOR Icon Jolee.png Jolee: The hermit says he's tired of living alone in the giant forest and you find that hard to believe? How cynical are you?
+KotOR Icon Jolee.png Jolee: You live in an overgrown stump with the tachs beating down your door and you tell me how happy you would be. I was pleased just to have visitors.
+KotOR Icon Dialog.png 1. No, really.
+KotOR Icon Jolee.png Jolee: How many kilometer-high trees can you find an interest in before you figure you've had enough? I'd bet you can't be bothered to stay in one room for more than fifteen minutes. And then there's all the critters in the Shadowlands... I'm just happy to be back in space, doing something new. Is that too much to ask?
+KotOR Icon Dialog.png 1. You could do that on your own.
+KotOR Icon Dialog.png 2. Damn right it is.
+KotOR Icon Dialog.png 3. No, I guess not.
+KotOR Icon Jolee.png Jolee: So I could. Not having a ship does tend to put a damper on that kind of idea, however.
+KotOR Icon Jolee.png Jolee: You got a smart mouth on you there, you know that? If ullers could talk, they'd sound like that.
+KotOR Icon Jolee.png Jolee: There, now, was that so hard? An old man has to be allowed some petty eccentricities. Nice to see you agree, for once.
+KotOR Icon Jolee.png Jolee: I'll admit... for all its flaws, Kashyyyk was home enough. But when you came along and I saw the destiny you had before you, I couldn't help but be intrigued.
+KotOR Icon Dialog.png 1. You know what my destiny is?
+KotOR Icon Dialog.png 2. What interest do you have in my future?
+KotOR Icon Dialog.png 3. Just keep your opinions on it to yourself.
+KotOR Icon Jolee.png Jolee: Of course not. Weren't you listening last time? I can see that you have a destiny before you... but the details are far from clear.
+KotOR Icon Jolee.png Jolee: Interest? Well, I certainly don't have a vested interest... call it more idle curiosity. Your destiny is... rather unclear.
+KotOR Icon Jolee.png Jolee: Have I offered a single opinion? No, I haven't, though you could do far worse than hear a couple of mine. Your destiny, after all, is rather unclear.
+KotOR Icon Jolee.png Jolee: In fact, everything about you that I can see is odd. Slightly off, as if my eyes are trying to trick me. Something... something is very dark about you... ... but bah! I'm sure you don't need to hear my ruminations. You've probably got enough nosy Jedi offering you one opinion after another to make you sick.
+KotOR Icon Dialog.png 1. No, tell me more of what you see.
+KotOR Icon Dialog.png 2. You got that right. I have enough Jedi watching me.
+KotOR Icon Dialog.png 3. So you're coming along to *not* offer your opinions?
+KotOR Icon Jolee.png Jolee: Your future will come of its own accord, trust me. Sometimes navel-gazing at it doesn't get you anywhere.
+KotOR Icon Jolee.png Jolee: Well I for one am quite content to let you make your own mistakes. Just because I want to see where this ends up doesn't mean I need to tell you how to get there.
+KotOR Icon Jolee.png Jolee: I'll remind you that *you're* the one who started pumping me for information. Like an old man doesn't have anything better to do. Hmph.
+KotOR Icon Jolee.png Jolee: I wouldn't worry about it too much, if I were you. You remind me a bit of Nomi, heh heh, and that can't be all bad.
+KotOR Icon Dialog.png 1. Nomi? Who's Nomi?
+KotOR Icon Jolee.png Jolee: Nomi Sunrider. She came late to the Force, just as you have, and became one of the greatest Jedi ever. Oh, fine, fine lass. Whether you'll follow the same path remains to be seen. For one thing, we'll never get anywhere if you stand around chatting up old men all day...
+KotOR Icon Dialog.png 1. I don't bring you along for your amusement, you know.
+KotOR Icon Dialog.png 2. So... you're along as some kind of observer?
+KotOR Icon Dialog.png 3. I don't need another mentor.
+KotOR Icon Jolee.png Jolee: Oh, stop being such a baby. Are you always so quick to turn aside an ally? Got too many of them, do you?
+KotOR Icon Jolee.png Jolee: Nonsense. Have I ever refused to help you when you asked? How confused can one person be, anyway?
+KotOR Icon Jolee.png Jolee: Good, since I didn't offer to be one. You think anyone would want to mentor you with that kind of attitude? Not me, I'm past that.
+KotOR Icon Jolee.png Jolee: One thing I will say is that this little escapade does remind me a bit of my adventuring days before the war. Ahh, those were exciting times. Or at least it would remind me of those times if we didn't stand around. What's keeping you? You're too young to be so talkative. Shoo! Shoo!
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+You prodded Jolee in an effort to find out why he decided to come with you. In the end, he did mention his 'adventuring days'. Perhaps you could ask him about them later, once you gain more experience.
+Second
+KotOR Icon Dialog.png 1. You mentioned something about your 'adventuring days'?
+
+
+KotOR Icon Jolee.png Jolee: Did I say that? Strange the tricks memory plays on you when you get older.
+KotOR Icon Dialog.png 1. So you weren't an adventurer?
+KotOR Icon Jolee.png Jolee: Didn't I say that my past was my affair? You don't see me poking and prodding you with questions, do you?
+KotOR Icon Dialog.png 1. But you've already said so much... I'm curious.
+KotOR Icon Dialog.png 2. You're just not used to company. Stop being an old coot.
+KotOR Icon Jolee.png Jolee: I'm not here to satisfy your curiosity! No staring at the old man, that's what the sign says, dammit!
+KotOR Icon Jolee.png Jolee: Hmph. I might be. But a mouthy young thing like yourself shouldn't get to call me an old coot, dammit.
+KotOR Icon Jolee.png Jolee: And besides... you don't really want to hear about me. We're talking ancient history, probably before you were born. History bores kids. Proven fact.
+Either of the following responses completes this quest prematurely:
+
+
+KotOR Icon Dialog.png 3. Fine. I won't ask you questions ever again.
+KotOR Icon Dialog.png 2. You're right. I'd rather not be bored.
+KotOR Icon Jolee.png Jolee: Well that's a relief. Maybe an old man can finally get some peace around here. Now, run along and do whatever you were doing, already.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+For some reason, Jolee isn't about to talk to you anymore. He will accompany you on your mission, but his thoughts and his story are his own.
+
+
+KotOR Icon Dialog.png 1. Yeah? Well old people love to talk about history. Proven fact. KotOR Icon Dialog.png 3. I'm not a 'kid'.
+KotOR Icon Jolee.png Jolee: Oh fine, fine, have it your way. Just don't cry about it later. KotOR Icon Jolee.png Jolee: So you're not. Fine, have it your way. Just don't say I didn't warn you.
+KotOR Icon Jolee.png Jolee: Yes, yes, I was an adventurer. Happy now? I wasn't even done with my Jedi training back then. I had a full head of hair and an eagerness to see absolutely everything. Sound familiar? The Council was never very happy with willful, brash Jolee Bindo, you see. Even less so when I began my smuggling career.
+KotOR Icon Dialog.png 1. *You* were a smuggler?
+KotOR Icon Dialog.png 2. A Jedi would never be a smuggler!
+KotOR Icon Dialog.png 3. How did that happen?
+KotOR Icon Jolee.png Jolee: Don't look at me like that, dammit! I wasn't always the wrinkled coot I am now, you know. I can still fight, too, so wipe off that smirk I see there. KotOR Icon Jolee.png Jolee: You're very sure of that, are you? My, my, you must be very learned and experienced to know so many things. At any rate, I was still a Padawan at the time.
+KotOR Icon Jolee.png Jolee: At the time the Ukatis system was interdicted by its own King. He preferred to keep his people starving and poor, all the better to oppress them. The Senate was trying to negotiate a peace, but they were getting nowhere as usual. I decided I wasn't going to wait. I found myself a ship and a partner and we began smuggling food and supplies to the Ukatis citizenry through the blockade.
+KotOR Icon Dialog.png 1. Was it very dangerous?
+KotOR Icon Jolee.png Jolee: Oh, it was. I was a half-decent pilot in those days... and with the Force guiding me, we made it through some tough spots nobody else would have.
+KotOR Icon Dialog.png 1. You were a pilot, too?
+KotOR Icon Jolee.png Jolee: Pilot, smuggler... several other things, too. Or did you suppose I was always a crotchety hermit?
+KotOR Icon Dialog.png 3. I still can't believe you actually did that.
+KotOR Icon Jolee.png Jolee: Why not? There were millions of people crying out for aid. What else was I supposed to do?
+KotOR Icon Dialog.png 1. How about nothing?
+KotOR Icon Jolee.png Jolee: Don't be stupid. Are you doing nothing? If nothing's not good enough for you there's no reason it should have been good enough for me back then, either.
+KotOR Icon Dialog.png 2. Where did you get the credits for all the supplies?
+KotOR Icon Jolee.png Jolee: Well... we didn't *buy* all the equipment, per se. Some were happy to donate goods. Some we just, ah, knew had more than they could use...
+KotOR Icon Dialog.png 1. So you stole it?
+KotOR Icon Jolee.png Jolee: 'Stole' is such a harsh word. They would have donated those goods readily enough if they were compassionate. I considered it a tax on the greedy. We only got caught once. A lone Ukatish frigate shot us down and forced a crash landing. I thought the Force had abandoned me, as I remember.
+KotOR Icon Dialog.png 1. What happened then?
+KotOR Icon Dialog.png 2. Maybe it should have.
+KotOR Icon Dialog.png 3. Well that was pretty stupid of you.
+KotOR Icon Jolee.png Jolee: Oh, so you're going to speak for the Force now, are you? I deserved to crash, is that it?
+KotOR Icon Jolee.png Jolee: Hmph. As I recall, I'm not the only person in this conversation who's been shot down out of the sky recently.
+KotOR Icon Jolee.png Jolee: Well, as it happens, getting shot down turned out to be very fortunate. That day was the day I...
+KotOR Icon Dialog.png 1. That was the day you what?
+KotOR Icon Jolee.png Jolee: Well, that... that was the day I met my wife.
+KotOR Icon Dialog.png 1. Oh, I'm sorry...
+KotOR Icon Dialog.png 2. Your wife? You were married?
+KotOR Icon Dialog.png 3. Bad memory, I take it?
+KotOR Icon Jolee.png Jolee: It's alright. When you're digging through the trash, you shouldn't be surprised when you encounter something unpleasant.
+KotOR Icon Jolee.png Jolee: You know another way to get a wife? But, yes... that's when I met her.
+KotOR Icon Jolee.png Jolee: No. No, that was a good memory. There are just... much worse ones that followed.
+KotOR Icon Jolee.png Jolee: I... If it's all the same to you, I'd prefer to stop talking now. My mouth is starting to draw flies.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+You got Jolee to talk a little about his adventuring days... and during his tale he mentioned the fact that he had a wife. He didn't want to talk about her, but you might be able to ask him about it later once you gained more experience.
+Third
+KotOR Icon Dialog.png 1. You mentioned something about your wife before?
+KotOR Icon Jolee.png Jolee: I don't want to talk about that.
+KotOR Icon Dialog.png 1. Sorry. Maybe we can talk about it later.
+KotOR Icon Jolee.png Jolee: Maybe, but I doubt it. I'm made stubborn that way.
+This response ends the dialog. Otherwise:
+
+
+KotOR Icon Dialog.png 2. Well, I do. Spit it out, already.
+KotOR Icon Dialog.png 3. I don't want to pry, but...
+KotOR Icon Jolee.png Jolee: Now that's a unique method of getting someone to talk. Thunder about like a bantha in a circuit shop. Does that work for you often?
+KotOR Icon Jolee.png Jolee: Yes you do. You may mean well enough, but my private affairs are just that: private.
+KotOR Icon Jolee.png Jolee: Let me tell you something. Once you've lived as many years as I have, you'll have yourself a long, long list of memories. If you're lucky, most of them will be good. If you're not, some will be bad. If you're really unlucky, some will be so bad you never want to be reminded of them again... ever. You'll go far away, to a place that doesn't hold any memories at all. And there you'll be happy just to forget and be forgotten.
+KotOR Icon Dialog.png 1. I would never do that.
+KotOR Icon Dialog.png 2. No, I want to hear what you have to say.
+KotOR Icon Dialog.png 3. Is that why you went to Kashyyyk?
+KotOR Icon Dialog.png 4. Run away? How pathetic and weak.
+KotOR Icon Jolee.png Jolee: You say that now, but I'm talking to you from across the breadth of many years experience. That is a gap I simply can't cross for you.
+KotOR Icon Jolee.png Jolee: Heh. Partly, maybe. I doubt I could ever explain it to you fully, even if I wanted to.
+KotOR Icon Jolee.png Jolee: There are worse things to call yourself, for better reasons. If you don't think it's even possible that you might be flinging those words at yourself one day, you're younger than I thought.
+KotOR Icon Jolee.png Jolee: Let me ask you this: have you ever been in love? Truly in love, I mean, and not simple infatuation.
+KotOR Icon Dialog.png 1. Well...
+KotOR Icon Jolee.png Jolee: Exactly. You're still at the beginning of your life. There will be women in your life... perhaps many women... but if you're fortunate you'll find love once.
+KotOR Icon Jolee.png Jolee: Exactly. You're still at the beginning of your life. There will be men in your life... perhaps many men... but if you're fortunate you'll find love once.
+KotOR Icon Jolee.png Jolee: The Jedi, with their damnable sense of over-caution, would tell you love is something to avoid. Thankfully, anyone who's even partially alive knows that's not true.
+KotOR Icon Dialog.png 1. Aren't you worried about the dark side at all?
+KotOR Icon Dialog.png 2. That's what I've always thought.
+KotOR Icon Dialog.png 3. What's this? Love advice from an old Jedi?
+KotOR Icon Jolee.png Jolee: And why not? All this nonsense about avoiding love is so much foo-foo. I shouldn't be the only one who realizes that.
+KotOR Icon Jolee.png Jolee: Love doesn't lead to the dark side. Passion can lead to rage and fear, and can be controlled... but passion is not the same thing as love. Controlling your passions while being in love... that's what they should teach you to beware. But love, itself, will save you... not condemn you. Ahhhh, but listen to me go on as if I had all the answers. What do I know of love anymore? I'm just a lonely old man who's not even a Jedi.
+The following response completes this quest prematurely:
+
+KotOR Icon Dialog.png 2. You talk too much, old man. You don't know anything.
+KotOR Icon Jolee.png Jolee: Don't I? Hmph. Maybe you're right. It seems whatever I have to say is falling on deaf ears, anyhow. So go on, go on, run amok and kiss the bantha for all I care, I won't comment on it.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+For some reason, Jolee isn't about to talk to you anymore. He will accompany you on your mission, but his thoughts and his story are his own.
+
+KotOR Icon Dialog.png 1. Sounds like love is something you should have avoided. KotOR Icon Dialog.png 3. No, I want to hear what you have to say.
+ KotOR Icon Dialog.png 4. Not even a Jedi? You mean not anymore, right?
+KotOR Icon Jolee.png Jolee: Hmph. Maybe. Do you want to avoid the greatest things in life simply because they come with some complications?
+KotOR Icon Jolee.png Jolee: You do, do you? I wouldn't listen too closely... I'm no authority on anything. I just think that the greatest things in life shouldn't be avoided because they come with a few complications.
+KotOR Icon Jolee.png Jolee: Nope. Never was. Technically I never rose above the rank of Padawan, for various reasons. Does that surprise you?
+KotOR Icon Dialog.png 1. Not the way you describe your past, no.
+KotOR Icon Dialog.png 2. You seem to have all the abilities of a Jedi...
+KotOR Icon Dialog.png 3. Yes. You lied to me.
+KotOR Icon Jolee.png Jolee: Heh. I suppose I'm not prone to live my life like most of the Jedi Masters do, that's true. My opinions on love are no different.
+KotOR Icon Jolee.png Jolee: In my case, becoming a Jedi would have been a formality. I doubt the order and I would have gotten along well, considering my opinions on things such as love.
+KotOR Icon Jolee.png Jolee: No I didn't. I may never have become a Jedi technically, but I'm an old Padawan with a lifetime of experience. That applies both to the Force as well as topics like love.
+KotOR Icon Jolee.png Jolee: Love causes pain, certainly. Inevitably love is going to lead to as much sorrow and regret as it does joy. I suppose there are perfect, eternal loves out there... but I haven't seen any. How you deal with the bad part of love is what determines your character, what determines the dark side's hold over you.
+KotOR Icon Dialog.png 1. You don't think love can work?
+KotOR Icon Dialog.png 2. Maybe the Jedi just think you shouldn't take that risk.
+KotOR Icon Dialog.png 3. So what happened between you and your wife, then?
+KotOR Icon Jolee.png Jolee: I suppose it could. It would take a strong person to make that kind of commitment, I think. Someone with a great sense of self.
+KotOR Icon Jolee.png Jolee: Bah. A life without risk is boring. Is that how you want to live? You want love, you've got to fight for it.
+KotOR Icon Jolee.png Jolee: I haven't changed my mind. I'm still not going to talk about it. You go and find your own love if you want to know so badly.
+KotOR Icon Jolee.png Jolee: I'll tell you one thing: sometimes, no matter how hard you try, you and the one you love simply aren't meant to be together. The trick is to know when that is, to know when it's time to fight and when it's time to part ways. Hmph... there I go waxing philosophical again. Somebody blast me already! Let's get going before I start talking in riddles, dammit!
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+Jolee talked a little bit about his wife and why he didn't agree with the Jedi credo that love should be forbidden. He spoke of the Jedi with a great deal of bitterness, in fact. You might be able to ask him about it later, once you gained more experience.
+Fourth
+KotOR Icon Dialog.png 1. Why did you leave the Jedi?
+
+
+KotOR Icon Jolee.png Jolee: Heh heh. Who said I left the Jedi?
+KotOR Icon Dialog.png 1. You did. You said you weren't a Jedi any longer.
+KotOR Icon Dialog.png 2. Are you saying you're still a Jedi?
+KotOR Icon Dialog.png 3. Don't play games with me, old man.
+KotOR Icon Jolee.png Jolee: Well, technically, I was only a Padawan... not that that makes a difference to most. But as for the order, itself... no, I never left it. It left *me*. KotOR Icon Jolee.png Jolee: Don't get so uppity, dammit! The point I was trying to make, if you decide to actually listen, is that I never left the order. The order left *me*.
+KotOR Icon Dialog.png 1. What do you mean 'it left you'?
+KotOR Icon Dialog.png 2. That's about the dumbest thing I ever heard.
+KotOR Icon Dialog.png 3. So are you a Jedi or not?
+KotOR Icon Jolee.png Jolee: Oh, is it? Hmph. There are moments when I think you must be much older than you seem... but this isn't one of them.
+KotOR Icon Jolee.png Jolee: Something wrong with your ears? I thought folks only went deaf when they got to my age. I follow the Jedi Way and use the Force, don't I? That makes me a Jedi last time I checked. But the order, itself, the Jedi Council and so forth... no, I'm not a part of that and haven't been for a long time. And good riddance, I say!
+KotOR Icon Dialog.png 1. But you said the Jedi left you?
+KotOR Icon Dialog.png 2. Why good riddance?
+KotOR Icon Dialog.png 3. So you're just some rogue Jedi. Big deal.
+KotOR Icon Jolee.png Jolee: Hmph. A rogue, am I? You speak as if there must be something wrong with me, like not being part of the order makes me a criminal.
+KotOR Icon Jolee.png Jolee: You know what I hate? Well... you know, lots of things, really. But I'm old and easily annoyed. But that's beside the point. What I *really* hate are how most people view the Jedi. Everyone thinks the Jedi are perfect, that they can do no wrong. They think the Jedi Council is completely incapable of injustice.
+KotOR Icon Dialog.png 1. I certainly don't think that.
+KotOR Icon Dialog.png 2. Let me guess: you disagree?
+KotOR Icon Dialog.png 3. You? Perfect? That's a laugh.
+KotOR Icon Jolee.png Jolee: Hmph. I guess you aren't as stupid as you sometimes act. No doubt you've been on the receiving end of Jedi justice at least once, eh?
+KotOR Icon Jolee.png Jolee: Damn right I disagree. The Jedi are just as capable of injustice as anyone else. They may *try* harder, sure, but sometimes they get it wrong.
+KotOR Icon Jolee.png Jolee: Quiet, you. I'm not talking about me. Talking about the Jedi as a whole. They are just as capable of imperfection and injustice as anyone else, as you can obviously see.
+KotOR Icon Jolee.png Jolee: And I'm not even talking about how some of us fall to the dark side. No, that's plenty indication of our fallibility, but it's something else entirely. No, I'm talking about how, more often than not, your average robe-wearing Jedi can try to do the right thing and still be completely *wrong*.
+KotOR Icon Dialog.png 1. I don't get it. What do you mean?
+KotOR Icon Dialog.png 2. So the Jedi wronged you in some way, I take it?
+KotOR Icon Dialog.png 3. Nobody can be right about everything.
+KotOR Icon Jolee.png Jolee: *sigh* I suppose I'm not being very clear, am I?
+KotOR Icon Jolee.png Jolee: No, no. The Jedi always treated me well. It would be foolish and untrue to say otherwise. That's not what I meant, anyway.
+KotOR Icon Jolee.png Jolee: That's true, but it's not what I meant. I guess I'm not being clear, am I?
+KotOR Icon Jolee.png Jolee: Come to think of it, I don't have to be clear. Someone my age is entitled to ramble, dammit! But for your sake I'll try to explain. I'll tell you a little tale about a Jedi Master I once knew. Hortath, I think. Or was it Hartoth? I could never get it straight...
+The following sequence of responses completes this quest prematurely:
+
+
+KotOR Icon Dialog.png 3. No, I don't have time for any stupid stories.
+KotOR Icon Jolee.png Jolee: You're the one who was asking me about the Jedi, dammit! Now do you want the story or not?
+KotOR Icon Dialog.png 2. No. Can't be bothered.
+KotOR Icon Jolee.png Jolee: Boring you, am I? Well you just keep your questions to yourself next time. No need for old men to go and make nuisances of themselves.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+For some reason, Jolee isn't about to talk to you anymore. He will accompany you on your mission, but his thoughts and his story are his own.
+Otherwise:
+
+
+
+KotOR Icon Dialog.png 1. Go on, I'll listen.
+KotOR Icon Dialog.png 2. Is this going to have a point?
+KotOR Icon Dialog.png 1. Fine, fine, but make it quick.
+KotOR Icon Jolee.png Jolee: *Sigh* You know the problem with the youth of today? They're young.
+KotOR Icon Jolee.png Jolee: Where was I, then? Oh. Oh, yes... Master Hortath. He was a kindly old Jedi who meant well, but the most near-sighted thing in the Core, I swear. He would walk into walls, knock over tables, mistake apprentices for rancor beasts... that sort of thing. And he was too proud to submit to proper treatment. Some used to counsel him and urged "Use the Force, Master Hortath. Allow the Force to see for you." But he refused to believe that his eyes were failing. He simply squinted more and more as the years went on, the other Jedi resignedly passing it off as the amusing quirk of a compassionate old man.
+KotOR Icon Dialog.png 1. And? I don't get it.
+KotOR Icon Dialog.png 2. Is this supposed to have a point?
+KotOR Icon Dialog.png 3. Go on.
+KotOR Icon Jolee.png Jolee: I'm not finished yet! Now shush.
+KotOR Icon Jolee.png Jolee: So one day a young Padawan meets Master Hortath in the courtyard and, not knowing of his blindness, asks him for directions to the Council. Quite sure of himself, Hortath gave the lad directions... which happened to lead outside and away from the enclave. The Padawan is confused, naturally. He asks if Master Hortath is sure, and of course Master Hortath says that he is. The Padawan suggests that perhaps he should ask someone else... but the proud Hortath now feels insulted. He tells the Padawan to take the route he prescribed and no other. Rather dejectedly, the Padawan did as he was told... and so ended up leaving the Jedi Order forever. It was decided that the boy's fate was to leave the Order anyway... though whether that was out of respect for Hortath or because the boy went on to something else, well, we'll never know.
+KotOR Icon Dialog.png 1. So what does the Padawan leaving the Jedi have to do with the Jedi leaving you?
+KotOR Icon Dialog.png 2. So... you knew this Master Hortath? Or the Padawan?
+KotOR Icon Dialog.png 3. So what's the point?
+KotOR Icon Dialog.png 4. That's a stupid story.
+KotOR Icon Jolee.png Jolee: Not much. I never knew the Padawan nor met Master Hortath, himself. He was before my time.
+KotOR Icon Jolee.png Jolee: No, no. Both of them were from before my time. Well before the Sith Wars, even.
+KotOR Icon Jolee.png Jolee: Considering that it's about blindness, I think that's an appropriate response.
+KotOR Icon Dialog.png 1. I don't understand...
+KotOR Icon Jolee.png Jolee: The tale is about blindness and I thought the point was clear. At any rate, you think about it.
+KotOR Icon Jolee.png Jolee: You're the one who asked why the Jedi left me, remember? Now let's get going. My feet are itching for a good run.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+You successfully got Jolee to talk about the Jedi, and he told a tale about how they are often less than perfect. He might talk some more if you ask later, once you've gained more experience.
+Fifth
+KotOR Icon Dialog.png 1. What do you know about the Sith?
+
+
+KotOR Icon Jolee.png Jolee: Bad, bad men. Women, too, to be fair.
+KotOR Icon Dialog.png 1. You must know more than that.
+KotOR Icon Dialog.png 2. I'm not in the mood to play games.
+KotOR Icon Jolee.png Jolee: Oh, indeed. They make a fine sandwich, also. Heh heh heh. But don't tell the Jedi Council I said that.
+KotOR Icon Jolee.png Jolee: Who's playing games? Ask the next Sith you see if they're bad and they'll set you straight.
+KotOR Icon Dialog.png 1. Do you know anything important about the Sith or not?
+KotOR Icon Dialog.png 2. You're being elusive on purpose.
+KotOR Icon Dialog.png 3. Spit it out, old man, or things get rough.
+KotOR Icon Jolee.png Jolee: *sigh* And just what gave you the impression that I know anything more about the Sith than you do?
+KotOR Icon Dialog.png 1. You did. You said you fought them.
+KotOR Icon Jolee.png Jolee: Oh... that's right. Damn the ears of the young! I was expecting you to be your usual inattentive self when I mentioned that. So it's true, yes, I fought plenty of Sith. That was during the time of Exar Kun... oh, forty years ago now? Has it been that long?
+KotOR Icon Dialog.png 1. Are these the same Sith that we're fighting now?
+KotOR Icon Jolee.png Jolee: No, no, of course not. The Sith have come and gone for ages. They were not called Sith many thousands of years ago, perhaps, but the dark side was always present without a doubt. Oh, sure, occasionally the light side comes close to vanquishing the dark, but the dark always returns. The fact that Exar Kun was defeated didn't mean the Sith would never return, as they obviously have now. Everyone knows that.
+KotOR Icon Dialog.png 2. Who is this Exar Kun?
+KotOR Icon Jolee.png Jolee: Ah. Exar was a Jedi who was... corrupted... by ghosts of the old Sith. Or so they say. He attempted to conquer the Republic and create a new Golden Age of the Sith.
+KotOR Icon Dialog.png 1. And he was killed?
+KotOR Icon Jolee.png Jolee: Better to say he was defeated... but essentially, yes. The victory did not come easily, however.
+KotOR Icon Dialog.png 3. So tell me what you know about the Sith.
+KotOR Icon Jolee.png Jolee: A Sith believes he commands the Force... but it is the dark side who commands him. You know this, there is little I could truly add.
+KotOR Icon Dialog.png 3. What happened during the war with Exar Kun, then?
+KotOR Icon Jolee.png Jolee: That... is not a pleasant time to remember. After Exar Kun fell to the dark side, he attempted to recruit other Jedi to his cause. What surprised us... what took us completely unprepared... was how utterly successful he was. Many Jedi joined him and became Sith, themselves. Why they did I... I will never truly know. But they did. Battle broke out throughout the order... pupil against master, we fought ourselves...
+KotOR Icon Dialog.png 3. This isn't going to be more sad moaning, is it?
+KotOR Icon Jolee.png Jolee: I've often held the opinion that history has one basic flaw: it is seldom heeded. So go on and greet the world with your spite. Let's see where it takes you. You certainly don't need to hear any more from me.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+For some reason, Jolee isn't about to talk to you anymore. He will accompany you on your mission, but his thoughts and his story are his own.
+That response completes this quest prematurely. Otherwise:
+
+
+
+
+KotOR Icon Dialog.png 1. That must have been difficult.
+KotOR Icon Dialog.png 2. But you exterminated all the traitors, right?
+KotOR Icon Jolee.png Jolee: Yes. More than difficult... next to impossible. How do you fight against someone you love?
+KotOR Icon Jolee.png Jolee: Easy now to call them traitors. Tell me... how do you fight against someone that you love?
+KotOR Icon Jolee.png Jolee: Bah. I dislike such memories. It leaves a taste in the mouth that... it is a sadness I thought I had put aside long ago. Ask me again about the war some other time. Just... not now. I would prefer to be by myself for now.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+Jolee talked about the Sith and mentioned that he had been involved in the Sith War involving the infamous Dark Jedi, Exar Kun. It was obviously an unpleasant memory for him, however, and he told you to ask him about it later when you gained more experience.
+Sixth
+KotOR Icon Dialog.png 1. Do you want to talk about the war now?
+
+
+KotOR Icon Jolee.png Jolee: Not particularly.
+KotOR Icon Dialog.png 1. I'll ask you some other time, then.
+KotOR Icon Dialog.png 3. You said you'd tell me later... so spit it out already.
+KotOR Icon Jolee.png Jolee: Hmm. Such a charming and persuasive manner you have there. Forget it!
+KotOR Icon Dialog.png 2. Fine. Have it your way.
+Jolee needs to be persuaded to talk:
+
+
+Easy 2. [Persuade] No time like the present? Easy 1. [Persuade] Okay, here I am asking nicely.
+KotOR Icon Jolee.png Jolee: [Failure] *Sigh* I'm not interested in your demands. I'll tell my story when I'm damn good and ready… which isn't now, so shoo!
+However, you always have at least 40% chance of success, regardless of Persuade rank or character level, and even if you fail you can just try again:
+
+KotOR Icon Jolee.png Jolee: [Success] I suppose you're going to nag me until I cough it up, aren't you? Nothing is private anymore, it looks like. *sigh* There's no escaping it, I guess. So be it. My wife's name was Nayama. She was the Ukatis enforcer who shot me out of the sky, if you remember.
+KotOR Icon Dialog.png 2. Um... no, I don't remember.
+KotOR Icon Jolee.png Jolee: Bah. You got ears that work, don't you? I was a smuggler, way way back. I got shot down once over Ukatis. THAT story, yes.
+KotOR Icon Dialog.png 1. What does your wife have to do with the war? KotOR Icon Dialog.png 3. Are you going senile? I didn't ask about your wife, old man.
+KotOR Icon Jolee.png Jolee: No I'm not senile, dammit! Not yet, anyway. Hmmm... well at least I don't think so. At any rate, I'll tell the story the way I want to.
+KotOR Icon Jolee.png Jolee: My wife had plenty to do with the war. Upon meeting her, I knew right away that she was strong in the Force. That's why she was able to shoot me down. Nayama was a marvel of a woman. Fiery, determined, smart... she dragged me to the capital and foiled three of my attempts to escape prison. Oh, and that body...
+KotOR Icon Dialog.png 1. The war...?
+KotOR Icon Jolee.png Jolee: Well... yes, that. Needless to say I eventually won her over. That was after I kidnapped her upon being broken out of the Ukatis prison, mind you. But uh, that's another story entirely. At any rate, I wanted to train her in the Jedi way. The Council refused my request, naturally. I was still a Padawan at the time. I was an experienced Padawan, surely... but not yet ready to be a full Jedi and certainly not ready to train another. Especially not one so old as my wife.
+KotOR Icon Dialog.png 1. You disobeyed the Jedi Council?
+KotOR Icon Dialog.png 2. So you're saying you were an idiot.
+KotOR Icon Dialog.png 3. And what did she think of all this?
+KotOR Icon Jolee.png Jolee: I did. I wasn't the first and I won't be the last. The problem with self-righteous folk is they think they're more right than everyone else.
+KotOR Icon Jolee.png Jolee: Easy to say so now. At the time I just thought I was right.
+KotOR Icon Jolee.png Jolee: Nayama was intrigued by the idea of becoming a Jedi. She liked the idea of power too much, perhaps, but I certainly didn't see that at the time.
+KotOR Icon Jolee.png Jolee: I believed in her and trained her in secret. I ignored her willful nature... I loved her too much to see fault in her. And she loved me, too. I know she did. At the time, our love was a shared bliss... better than anything I had known before or since.
+KotOR Icon Dialog.png 1. So what happened?
+KotOR Icon Jolee.png Jolee: Exar Kun is what happened. Nayama was inspired by Exar's promises of a new Golden Age. She wanted to join him. She came to me, pleading with me to throw aside what she called the decrepit trappings of the Jedi... to join her in Exar's war.
+KotOR Icon Dialog.png 1. So she had fallen to the dark side?
+KotOR Icon Dialog.png 3. What did you do?
+KotOR Icon Dialog.png 2. So you killed her, of course.
+KotOR Icon Jolee.png Jolee: I... hadn't thought so. Not right then. I was too proud to believe that of her. I had trained her myself... I loved her.
+KotOR Icon Jolee.png Jolee: No of course I didn't kill her. How could I? I pleaded with her to reconsider, to think about what she was doing.
+KotOR Icon Jolee.png Jolee: I pleaded with her to reconsider, to think about all that she was throwing away... to think about what she would become.
+KotOR Icon Jolee.png Jolee: She would have none of it. Finally, in frustration, she attacked me. She drew her lightsaber and attempted to strike me down. It was a scene being repeated everywhere throughout the galaxy. Pupil against master. In my case... it was a long and terrible battle, but I defeated her.
+KotOR Icon Dialog.png 1. You killed her?
+KotOR Icon Jolee.png Jolee: No... no. I had her at my mercy, disarmed and defenseless. She looked up at me and she knew... she knew I couldn't do it.
+
+KotOR Icon Dialog.png 1. I don't think I could have, either.
+KotOR Icon Dialog.png 2. But... she was a Sith then, right?
+KotOR Icon Dialog.png 3. You were a fool.
+
+KotOR Icon Jolee.png Jolee: But I should have. Sometimes I convince myself otherwise... but it's no use. She had fallen to the dark side when she raised her saber against me.
+
+KotOR Icon Jolee.png Jolee: Yes. I think she truly fell the moment she raised up her saber against me. I have played that instant in my head... so many times. 
+
+KotOR Icon Jolee.png Jolee: Was I? Sometimes I convince myself that I couldn't have done otherwise... that I couldn't have seen that she had truly fallen to the dark side. But, yes, I was a fool.
+
+KotOR Icon Jolee.png Jolee: And I let her go. To my shame, she went on to kill many Jedi during the war until she, herself, was slain in the final battle. I grieved for her death, inevitable as it was, even as the Jedi Council put me on trial for my actions once the war was over.
+KotOR Icon Dialog.png 1. They put you on trial?
+KotOR Icon Jolee.png Jolee: I had trained Nayama against their wishes. I had failed to kill her when I had the chance, and she went on to kill others. Not to mention that I had remained a Padawan throughout the war. A formality, perhaps, but with the trial it had to be decided if I was worthy to become a Jeid at all. It was a travesty, of course. I told you that even the Jedi were capable of great injustices, didn't I?
+KotOR Icon Dialog.png 1. So that's the source of all this bitterness? They found you guilty?
+
+KotOR Icon Dialog.png 2. So you think you didn't deserve to be punished?
+
+KotOR Icon Dialog.png 3. I can't believe they tried you for that!
+KotOR Icon Jolee.png Jolee: Not at all.
+
+KotOR Icon Jolee.png Jolee: Of course I deserved to be punished.
+KotOR Icon Jolee.png Jolee: But I deserved to be tried.
+KotOR Icon Jolee.png Jolee: They found me innocent. Even though I... deserved every punishment and more... they let me go. Mitigating circumstances, they said. I deserved compassion, they said. They said I had learned wisdom the hard way. For all I had done during the war, they wished to raise me to full Jedi status at long last. That... that was when the Jedi left me. That was when they failed me.
+KotOR Icon Dialog.png 1. I don't understand...
+KotOR Icon Dialog.png 2. No, you're wrong! You did deserve compassion!
+KotOR Icon Dialog.png 3. You should have been happy you got off.
+
+KotOR Icon Jolee.png Jolee: No. Maybe you don't, at that.
+
+KotOR Icon Jolee.png Jolee: For my pride? For my cowardice? Which do you think is the act more befitting a Jedi?
+KotOR Icon Jolg 1. And you still believe love is worth the risk?
+
+KotOR Icon Jolee.png Jolee: I... Yes, I do, I suppose. Does that surprise you? Ahhh... it is so long ago. Lost in the winds, I suppose. Nobody cares what an old man believes anymore, do they? Let's continue on with the task at hand. I would prefer to think of the present today.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+You successfully convinced Jolee to talk about the Sith War, how his wife turned to the dark side... and how he ultimately abandoned the order for not holding him as responsible for her actions as he held himself. You might be able to ask him more about his past a little later, once you have gained more experience.
+Seventh
+KotOR Icon Dialog.png 1. So when did you go to Kashyyyk?
+
+
+
+KotOR Icon Jolee.png Jolee: Oh, that was not until many years later, to tell the truth. I spent quite some time wandering the galaxy.
+KotOR Icon Dialog.png 1. The Jedi just let you go?
+KotOR Icon Dialog.png 2. You were adventuring again, I take it?
+KotOR Icon Dialog.png 3. Let me guess. Traveling from planet to planet, doing good deeds...
+KotOR Icon Jolee.png Jolee: Why wouldn't they? I had refused my promotion to Jedi... I was a Padawan who had left the Order, nothing more. I traveled from one civilized system to the next, never staying long. I don't even think I knew what I was searching for.
+KotOR Icon Jolee.png Jolee: Nothing so extravagant. I merely traveled from place to place... I don't even think I knew what I was searching for.
+KotOR Icon Jolee.png Jolee: It wasn't as if my travels were pleasant, either. There were plenty of folks who distrusted the Jedi after the war... or worse.
+KotOR Icon Dialog.png 1. Worse? What could be worse?
+KotOR Icon Dialog.png 2. With good reason, I imagine.
+KotOR Icon Dialog.png 3. I don't see why you were wandering in the first place.
+KotOR Icon Jolee.png Jolee: I suppose so. Not everyone would understand why the Jedi would suddenly start killing themselves and tearing up half the galaxy, would they? KotOR Icon Jolee.png Jolee: I was lost. I couldn't conceive of returning to the Jedi, so what would you propose I'd done?
+KotOR Icon Jolee.png Jolee: If people weren't treating me with suspicion, they were looking at me with greed. I don't know how many thought they could make use of me for their own ends. I got so sick of the treachery and deceit I left the civilized parts of the galaxy and headed instead for the uncivilized parts.
+KotOR Icon Dialog.png 1. So that's when you went to Kashyyyk?
+KotOR Icon Jolee.png Jolee: Actually I was on my way somewhere else when I crash-landed on Kashyyyk. The ship I was using was a rust-bucket.
+KotOR Icon Dialog.png 1. You survived a crash-landing on Kashyyyk?
+KotOR Icon Jolee.png Jolee: I'd taken some damage passing through an unexpected asteroid field, as I recall, but I wasn't completely without some systems. I could still guide her a bit when I crashed. It wasn't what I would call the smoothest landing, especially considering I ended up smack in the depths of the Shadowlands. But I lived.
+KotOR Icon Dialog.png 2. Why didn't you just fix your ship and keep going?
+KotOR Icon Jolee.png Jolee: Hmph. I'm no mechanic. And besides, after you plunge nose-first into the trunk of a five-kilometer high tree, chances are you don't have much ship left.
+KotOR Icon Dialog.png 3. So you crashed... and stayed?
+KotOR Icon Jolee.png Jolee: Sure, why not? It seemed like an interesting enough place to spend a couple of decades exploring.
+KotOR Icon Dialog.png 1. How did you survive in the Shadowlands?
+KotOR Icon Jolee.png Jolee: Hmmm. That was a challenge at first. You've seen the kind of creatures that exist down there... and you missed the really big ones. I was still able to rely on the Force to keep me safe for the most part. The rest of the trick is keeping out of the way of most of the predators.
+KotOR Icon Dialog.png 1. It couldn't have been easy.
+KotOR Icon Jolee.png Jolee: No, that's true. Still... most of the creatures grew accustomed to me, and I to them. At least none of them ever heard of a Jedi.
+KotOR Icon Dialog.png 2. You're completely insane, you know that?
+KotOR Icon Jolee.png Jolee: Bah, what do you know? I'd done enough wandering by that point, thank you very much. I felt at peace in the Shadowlands.
+KotOR Icon Dialog.png 3. And the Wookiees didn't mind your presence?
+KotOR Icon Jolee.png Jolee: They did at first, oh yes. I can't say I was overly pleased to encounter a group of indigenous giant carpets either, I can assure you of that.
+KotOR Icon Dialog.png 1. Did you fight them?
+KotOR Icon Dialog.png 2. You seemed on fairly peaceful terms with them.
+KotOR Icon Dialog.png 3. You could have ruled them, you know.
+KotOR Icon Jolee.png Jolee: No, no. I was the intruder in their land, after all. They got to trust me well enough after a couple of decades of my aid.
+KotOR Icon Jolee.png Jolee: Well that was after two decades of helping them. They certainly didn't trust me at first. KotOR Icon Jolee.png Jolee: And why would I have been interested in that? You can't spend five minutes in a Wookiee village without coming out smelling like wet fur. No, no, let them rule themselves. They can screw up their history just like every other race before them. No, I helped them in other ways.
+KotOR Icon Dialog.png 1. You helped them?
+KotOR Icon Jolee.png Jolee: When I could. I would assist the few young ones who would get lost in the Shadowlands or attacked unexpectedly by the wildlife. I must say... for a while there, the Wookiees actually thought I was some kind of benevolent forest god. Amusing, really. I set them straight eventually.
+KotOR Icon Dialog.png 1. Why didn't you stop the slavery of the Wookiees, then?
+KotOR Icon Jolee.png Jolee: At first, when the slavers took to hunting down lone Wookiees in the fringes of the Shadowlands, I did my best to divert them. Later, when Chuundar made his deal I didn't see any point. I wasn't here to save them from their own sad follies, after all.
+KotOR Icon Dialog.png 2. It sounds like you enjoyed being a god.
+KotOR Icon Jolee.png 
+Jolee: Nonsense. I had no idea that's what they were thinking for a long time. I just thought they were being friendly neighbors, leaving fruit and such for me. Later, when I started to understand some of their grunting, I realized they would say prayers to the 'hairless one' before descending into the forest. Hmph. Hairless one. I used to have plenty of hair, I tell you. *Ahem* Well, at any rate, it took a few bruises, but I set the record straight.
+KotOR Icon Dialog.png 1. A few bruises?
+KotOR Icon Jolee.png 
+Jolee: I traveled to Rwookrrorro and met with the chieftain in front of everyone. Freyyr swatted at me just to see if I was real or not. I was real, and while it was a light swat, Wookiees are terribly strong. I was knocked out cold for a day. The Wookiees all thought it was quite funny.
+KotOR Icon Dialog.png 3. Wasn't it all a bit primitive for you?
+KotOR Icon Jolee.png 
+Jolee: Not really. Kashyyyk is a place you can feel very small in. It felt good to devote my time to helping people and living simply.
+KotOR Icon Dialog.png 1. And you didn't receive any news from the outside?
+KotOR Icon Dialog.png 2. You spent two decades living like that?
+KotOR Icon Dialog.png 3. I still think you're insane.
+KotOR Icon Jolee.png 
+Jolee: What can I say? I did it all for the Wookiees.
+KotOR Icon Dialog.png 1. The Wookiees?
+KotOR Icon Jolee.png 
+Jolee: The Wookiees. Well, okay, maybe I needed some time on a quiet and remote planet... but if you ever need a friend, an incredibly strong hairball isn't a bad call.
+KotOR Icon Dialog.png 1. You are a very strange old man.
+KotOR Icon Dialog.png 2. You sound quite fond of them.
+KotOR Icon Dialog.png 3. I regret asking you about this, now.
+KotOR Icon Jolee.png 
+Jolee: Why, thank you. You're not so bad, yourself, all things considered.
+KotOR Icon Jolee.png 
+Jolee: I suppose I am, in a way, despite the smell. For a race of gardeners, they've developed quite interestingly.
+KotOR Icon Jolee.png 
+Jolee: See? Now you know how I feel half the time.
+KotOR Icon Dialog.png 1. Gardeners?
+KotOR Icon Jolee.png 
+Jolee: You remember the alien computer, correct? Kashyyyk was meant to be an agricultural planet. The Wookiees were made for a reason. Or, at least, that's what I'm thinking. But I'm an old man who's had a long time to develop that opinion, so don't argue with me.
+KotOR Icon Jolee.png 
+Jolee: At any rate, we should be moving along, don't you think? If you sat around this long in the Shadowlands, a tach would eat you.
+KotOR Icon Journal.png Journal Entry Added: Jolee Bindo
+You asked Jolee a little about his time on Kashyyyk. You can ask him more about it later, once you've gained more experience.
+Eighth
+KotOR Icon Dialog.png 1. So if you liked Kashyyyk so much, why did you want to leave?
+
+
+KotOR Icon Jolee.png 
+Jolee: Are we back to *that* again?
+KotOR Icon Dialog.png 1. I find it hard to believe you left the Wookiees just for some adventure.
+KotOR Icon Dialog.png 2. I want a reason why I shouldn't just drop you off somewhere.
+KotOR Icon Dialog.png 3. Am I really all that interesting to you?
+KotOR Icon Jolee.png 
+Jolee: Hmmm... what's the best way for me to approach this? Ah, perhaps it's time for a little story...
+KotOR Icon Dialog.png 1. Oh, no, not another story!
+KotOR Icon Dialog.png 2. Couldn't you just answer the question for once?
+ KotOR Icon Dialog.png 3. Forget I asked anything... I refuse to listen!
+KotOR Icon Jolee.png 
+Jolee: You just keep quiet there, you! I've had to put up with all your busy-body questions, haven't I? Well, now you'll listen to a story, dammit! *ahem* Now where was I? Oh yes, the story... you almost made me forget about it. Nice try, but I'm not that old just yet. Heh heh. Now, then. A young man sees a terribly venomous snake in his small village. Nervous, he watches the snake carefully until it leaves. The young man follows the snake into the forest. He clears the branches out of its path and helps it over obstacles. He even works to keep it fed.
+KotOR Icon Dialog.png 1. This is a very long story.
+KotOR Icon Jolee.png 
+Jolee: Shush! Many nights pass and still the young man continues to follow the snake. He even follows it into the sands of the great desert. In the desert, the snake eventually grows hungry. It turns and bites the young man, its poison quickly working its way into his system. Finally curious, the snake looks at the boy as he lays dying and asks, "Why were you foolish enough to follow me all the way out into the desert?" The boy looks back and replies, "Did I follow you? I thought I was leading you away from everyone else..." And then he died.
+KotOR Icon Dialog.png 1. Am I supposed to be the snake?
+KotOR Icon Jolee.png 
+Jolee: Well, now, that's what I wanted to see for myself.
+KotOR Icon Dialog.png 1. That's a long way to come just to risk dying.
+KotOR Icon Dialog.png 2. I'm not a snake, I can assure you of that.
+KotOR Icon Dialog.png 3. Are you saying you're frightened of me?
+KotOR Icon Dialog.png 4. And what's your judgement so far?
+KotOR Icon Jolee.png 
+Jolee: I've come a long way as it is, and I'm going to die anyway so that doesn't bother me in the least.
+KotOR Icon Jolee.png 
+Jolee: Well, then... let's hope you're not the young man, either.
+KotOR Icon Jolee.png 
+Jolee: The real question is whether or not I'm as frightened as I should be, isn't it?
+KotOR Icon Jolee.png 
+Jolee: I've told you before that you have a destiny before you. This does not mean, however, that your future is already written. They are not the same thing. You have the choice of which direction you take your destiny in. More than engine-sucking Andor, certainly... but even he had a choice.
+Alignment 0-39 means you've chosen to take a darker path:
+
+
+KotOR Icon Jolee.png 
+Jolee: So far you've chosen to take a darker path. You know the consequences of that… we'll see if you decide to stay your course.
+KotOR Icon Jolee.png 
+Jolee: So far you've chosen to take the lighter path. Can you stay that course, even through the challenges ahead? We'll have to wait and see.
+Jolee: I'm not here to judge you or tell you which path to take. I'm here ready to offer you my help... should you ask for it. I do that because I think it's important. More important than remaining in my home and pretending the galaxy doesn't exist. That's why I'm here.
+KotOR Icon Dialog.png 1. Thank you, Jolee. I'm glad you came.
+KotOR Icon Dialog.png 2. But I don't need you, really. You're wasting your time.
+KotOR Icon Dialog.png 3. I'd prefer you were safe... elsewhere.
+KotOR Icon Jolee.png 
+Jolee: Heh. I'm rather glad I came, too, really. You're a fine young lad. I hope... I hope things turn out well for you.
+KotOR Icon Jolee.png 
+Jolee: Heh. I'm rather glad I came, too, really. You're a fine young lass. I hope... I hope things turn out well for you.
+KotOR Icon Jolee.png 
+Jolee: Hmph. So you say, but it's my time to waste. Perhaps I can influence your decision, perhaps not... only time will tell, won't it?
+KotOR Icon Jolee.png 
+Jolee: That's very kind of you, but while elsewhere may be safer, elsewhere isn't where I think I should be. Besides... what's an old man to fear from death, eh?
+KotOR Icon Jolee.png 
+Jolee: Now, then... I've chatted enough for one lifetime. Let's get this show on the road, shall we?
+
+Quest
+Davin Kotras: Excuse me, have you seen a mechanic about? Short fellow, bald. I've been looking --
+Jolee: Well, I'll be a Wookiee's uncle. Davin! Davin Kotras!
+Davin Kotras: Ha! Jolee! Jolee Bindo? Why, you old freak! Last time I saw you, you were still wandering the galaxy in that old tug. I thought you were dead, old man.
+Jolee: I crashed somewhere and decided to stay. Heh heh.
+Davin Kotras: Yeah, yeah. I'll just bet. Damn, old man, you look exactly the same as the last time I saw you! You pickle well.
+Jolee: You're too kind. Not the young lad anymore yourself, I see.
+Jolee, we should be going…
+We don't have time for reunions.
+Jolee: Yes, yes, right you are. Sorry, Davin, but duty calls. Maybe I'll run into you again soon.
+Care to introduce your friend, Jolee?
+Jolee: What, are you deaf? His name's Davin. Old friend from my wanderer days. By the by, Davin, I really should be running off…
+
+Davin Kotras: Of course, old man. Oh, wait… if you've been traveling in this sector, I suppose you heard about Sunry?
+
+Jolee: No. Why? What's there to hear?
+
+Davin Kotras: He's been picked up by the Selkath authorities on Manaan. For murder.
+
+Jolee: That's preposterous.
+
+Davin Kotras: I know. Elora is beside herself, as you can imagine. Maybe you could help them? I'm sure Sunry would appreciate a Jedi's assistance right about now.
+
+Jolee: Perhaps I will at that. It's up to my friend, here, actually. I'm just tagging along.
+
+1. We could check into it when we're on Manaan next.
+
+2. We have more important things to do.
+
+Jolee: I'd appreciate that. Sunry's an old friend… I'd hate to see him hurt.
+
+3. I'm not making any promises.
+
+Jolee: I was expecting that. Still… if we get the chance, I'd be grateful. Sunry's an old friend… I'd hate to see him hurt.
+
+Davin Kotras: Same here. Well, heh, it was good to see you again. Give my regards to Elora, if you see her.
+
+Jolee: I will. Be safe, old friend.
+
+Jolee: Got something on your mind, do you?
+
+Tell me about Sunry. How do you know him?
+
+Jolee: What? You think because I'm a hermit I've always been a hermit? Just because I haven't seen Sunry for twenty years doesn't mean he's not a friend. A man could have changed a lot in that span of time, though. But to become a murderer? Oh. Mm mm mm. I can't see it. That's not the Sunry I knew. He was a good man. Put me up in his home for a year back after I left the order. War hero, too, or so I hear. I wouldn't mind helping the fellow, if we can. I owe it to him. Or you can be a young monkey-lizard and ignore me, I guess… well, I don't expect much these days.
+
+===Banter===
+====Bastilla====
+Bastila: Jolee, may I have a moment? There is something I wish to speak to you about.
+
+Jolee: Yep, I figured it was only a matter of time until we had the whole "come back to the Order" discussion. Well, I guess there's no avoiding it now, so let's get it over with.
+
+Bastila: I know you have... issues... with the Order. But you are a Jedi, Jolee. You command the Force. Without the guidance of the Council how can you avoid falling to the dark side?
+
+Jolee: Well, I've managed to avoid it the last 20 years or so. Besides, light side, dark side: they don't mean the same to me as they do to you. I don't see in absolutes.
+Malak and the Sith are evil, Jolee! Surely you can see that.
+So you don't have a problem with Malak and the Sith?
+Of course! Malak isn't evil, he's just misunderstood!
+
+Jolee: I want to stop Malak as much as anyone. But I don't have to join the Order to do it. Look at Carth, or Canderous. They're with us in this quest, but they aren't Jedi. The capacity for good or evil, like the Force itself, is in all living creatures. And belonging to the Jedi Order, or the Sith, or any group, won't change what you are at your core.
+
+Bastila: I see you are quite adamant. No doubt you've had ample time to think on this during your long seclusion. I guess it was foolish of me to think I could sway your position so easily.
+
+Jolee: Yeah, I'm old and stubborn. But I appreciate the effort. But from now on you can just think of me as any other non-Jedi in our little group - with a lightsaber. And Force powers.
+
+
+====Carth====
+Carth: So, Jolee, you decided to leave your little hermitage in the forest and come help us stop the Sith. I guess you realized this was worth coming out of retirement for, huh?
+
+Jolee: Yeah, that's right, sonny. The Sith are the greatest evil to hit the galaxy since, well, the Mandalorians. And they're the worst thing since Exar Kun. Blah, blah, blah, etcetera, etcetera, etcetera.
+
+Carth: Okay, old man, you lost me there. Are you trying to make a point?
+Are you saying what we're doing isn't important?
+If you feel that way, why did you come with us?
+I think it's pretty clear that Malak is the tyrant in this case.
+
+Jolee: Malak is a tyrant who should be stopped. If he conquers the galaxy we're in for a couple of rough centuries. Eventually it'll come around again, but I'd rather not wait that long. So we do what we have to do, and we try to stop the Sith. But don't start thinking this war - your war - is more important than any other war just because you're in it.
+
+Carth: That's an interesting theory, but I don't buy it. The Republic stands for something; it's stood for something for fifteen thousand years. And if it falls, everything will change forever.
+
+Jolee: You believe whatever you need to to get you through this, sonny. The bottom line is we both want to stop Malak, so let's not get hung up on the details. Let's just get back to stopping him.
+[[Category:Star Wars transcripts]]
+[[Category:Video Games]]</text>
